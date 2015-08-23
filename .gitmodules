@@ -1,3 +1,15 @@
+[submodule "docker/boot2docker"]
+	path = docker/boot2docker
+	url = https://github.googlesource.com/docker/boot2docker
+[submodule "docker/docker-registry"]
+	path = docker/docker-registry
+	url = https://github.googlesource.com/docker/docker-registry
 [submodule "docker/docker"]
 	path = docker/docker
 	url = https://github.googlesource.com/docker/docker
+[submodule "joyent/node"]
+	path = joyent/node
+	url = https://github.googlesource.com/joyent/node
+[submodule "kubernetes/kubernetes"]
+	path = kubernetes/kubernetes
+	url = https://github.googlesource.com/kubernetes/kubernetes
