@@ -1,12 +1,21 @@
+[submodule "codemirror/CodeMirror"]
+	path = codemirror/CodeMirror
+	url = https://github.googlesource.com/codemirror/CodeMirror
 [submodule "docker/boot2docker"]
 	path = docker/boot2docker
 	url = https://github.googlesource.com/docker/boot2docker
-[submodule "docker/docker-registry"]
-	path = docker/docker-registry
-	url = https://github.googlesource.com/docker/docker-registry
+[submodule "docker/distribution"]
+	path = docker/distribution
+	url = https://github.googlesource.com/docker/distribution
 [submodule "docker/docker"]
 	path = docker/docker
 	url = https://github.googlesource.com/docker/docker
+[submodule "google/kythe"]
+	path = google/kythe
+	url = https://github.googlesource.com/google/kythe
+[submodule "google/shipshape"]
+	path = google/shipshape
+	url = https://github.googlesource.com/google/shipshape
 [submodule "joyent/node"]
 	path = joyent/node
 	url = https://github.googlesource.com/joyent/node
