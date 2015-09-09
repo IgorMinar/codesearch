@@ -1,3 +1,6 @@
+[submodule "bazelbuild/bazel"]
+	path = bazelbuild/bazel
+	url = https://github.googlesource.com/bazelbuild/bazel
 [submodule "codemirror/CodeMirror"]
 	path = codemirror/CodeMirror
 	url = https://github.googlesource.com/codemirror/CodeMirror
