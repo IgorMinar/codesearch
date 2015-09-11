@@ -1,6 +1,15 @@
+[submodule "GoogleCloudPlatform/collectd-netperf"]
+	path = GoogleCloudPlatform/collectd-netperf
+	url = https://github.googlesource.com/GoogleCloudPlatform/collectd-netperf
+[submodule "angular/angular.js"]
+	path = angular/angular.js
+	url = https://github.googlesource.com/angular/angular.js
 [submodule "bazelbuild/bazel"]
 	path = bazelbuild/bazel
 	url = https://github.googlesource.com/bazelbuild/bazel
+[submodule "broadinstitute/hellbender"]
+	path = broadinstitute/hellbender
+	url = https://github.googlesource.com/broadinstitute/hellbender
 [submodule "codemirror/CodeMirror"]
 	path = codemirror/CodeMirror
 	url = https://github.googlesource.com/codemirror/CodeMirror
@@ -22,6 +31,15 @@
 [submodule "google/shipshape"]
 	path = google/shipshape
 	url = https://github.googlesource.com/google/shipshape
+[submodule "google/skia-buildbot"]
+	path = google/skia-buildbot
+	url = https://github.googlesource.com/google/skia-buildbot
+[submodule "google/skia"]
+	path = google/skia
+	url = https://github.googlesource.com/google/skia
+[submodule "google/syzygy"]
+	path = google/syzygy
+	url = https://github.googlesource.com/google/syzygy
 [submodule "joyent/node"]
 	path = joyent/node
 	url = https://github.googlesource.com/joyent/node
