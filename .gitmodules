@@ -13,6 +13,9 @@
 [submodule "docker/docker"]
 	path = docker/docker
 	url = https://github.googlesource.com/docker/docker
+[submodule "google/certificate-transparency"]
+	path = google/certificate-transparency
+	url = https://github.googlesource.com/google/certificate-transparency
 [submodule "google/kythe"]
 	path = google/kythe
 	url = https://github.googlesource.com/google/kythe
