@@ -25,6 +25,9 @@
 [submodule "google/certificate-transparency"]
 	path = google/certificate-transparency
 	url = https://github.googlesource.com/google/certificate-transparency
+[submodule "google/googletest"]
+	path = google/googletest
+	url = https://github.googlesource.com/google/googletest
 [submodule "google/kythe"]
 	path = google/kythe
 	url = https://github.googlesource.com/google/kythe
@@ -46,3 +49,6 @@
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
+[submodule "open-source-parsers/jsoncpp"]
+	path = open-source-parsers/jsoncpp
+	url = https://github.googlesource.com/open-source-parsers/jsoncpp
