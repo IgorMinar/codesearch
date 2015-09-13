@@ -58,6 +58,33 @@
 [submodule "google/syzygy"]
 	path = google/syzygy
 	url = https://github.googlesource.com/google/syzygy
+[submodule "googlegsa/activedirectory"]
+	path = googlegsa/activedirectory
+	url = https://github.googlesource.com/googlegsa/activedirectory
+[submodule "googlegsa/database"]
+	path = googlegsa/database
+	url = https://github.googlesource.com/googlegsa/database
+[submodule "googlegsa/documentum"]
+	path = googlegsa/documentum
+	url = https://github.googlesource.com/googlegsa/documentum
+[submodule "googlegsa/filesystem"]
+	path = googlegsa/filesystem
+	url = https://github.googlesource.com/googlegsa/filesystem
+[submodule "googlegsa/googleauthn"]
+	path = googlegsa/googleauthn
+	url = https://github.googlesource.com/googlegsa/googleauthn
+[submodule "googlegsa/ldap"]
+	path = googlegsa/ldap
+	url = https://github.googlesource.com/googlegsa/ldap
+[submodule "googlegsa/library"]
+	path = googlegsa/library
+	url = https://github.googlesource.com/googlegsa/library
+[submodule "googlegsa/opentext"]
+	path = googlegsa/opentext
+	url = https://github.googlesource.com/googlegsa/opentext
+[submodule "googlegsa/sharepoint"]
+	path = googlegsa/sharepoint
+	url = https://github.googlesource.com/googlegsa/sharepoint
 [submodule "grpc/grpc-java"]
 	path = grpc/grpc-java
 	url = https://github.googlesource.com/grpc/grpc-java
