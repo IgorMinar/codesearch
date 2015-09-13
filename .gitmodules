@@ -25,6 +25,9 @@
 [submodule "docker/docker"]
 	path = docker/docker
 	url = https://github.googlesource.com/docker/docker
+[submodule "golang/go"]
+	path = golang/go
+	url = https://github.googlesource.com/golang/go
 [submodule "google/battery-historian"]
 	path = google/battery-historian
 	url = https://github.googlesource.com/google/battery-historian
@@ -103,3 +106,6 @@
 [submodule "pagespeed/ngx_pagespeed"]
 	path = pagespeed/ngx_pagespeed
 	url = https://github.googlesource.com/pagespeed/ngx_pagespeed
+[submodule "robolectric/robolectric"]
+	path = robolectric/robolectric
+	url = https://github.googlesource.com/robolectric/robolectric
