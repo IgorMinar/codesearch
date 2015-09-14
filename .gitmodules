@@ -25,6 +25,33 @@
 [submodule "docker/docker"]
 	path = docker/docker
 	url = https://github.googlesource.com/docker/docker
+[submodule "domokit/cassowary"]
+	path = domokit/cassowary
+	url = https://github.googlesource.com/domokit/cassowary
+[submodule "domokit/mojo"]
+	path = domokit/mojo
+	url = https://github.googlesource.com/domokit/mojo
+[submodule "domokit/mojo_sdk"]
+	path = domokit/mojo_sdk
+	url = https://github.googlesource.com/domokit/mojo_sdk
+[submodule "domokit/monet"]
+	path = domokit/monet
+	url = https://github.googlesource.com/domokit/monet
+[submodule "domokit/newton"]
+	path = domokit/newton
+	url = https://github.googlesource.com/domokit/newton
+[submodule "domokit/omicron"]
+	path = domokit/omicron
+	url = https://github.googlesource.com/domokit/omicron
+[submodule "domokit/playfair"]
+	path = domokit/playfair
+	url = https://github.googlesource.com/domokit/playfair
+[submodule "domokit/sky_engine"]
+	path = domokit/sky_engine
+	url = https://github.googlesource.com/domokit/sky_engine
+[submodule "domokit/sky_tools"]
+	path = domokit/sky_tools
+	url = https://github.googlesource.com/domokit/sky_tools
 [submodule "golang/go"]
 	path = golang/go
 	url = https://github.googlesource.com/golang/go
@@ -61,6 +88,63 @@
 [submodule "google/syzygy"]
 	path = google/syzygy
 	url = https://github.googlesource.com/google/syzygy
+[submodule "googlegenomics/api-client-android"]
+	path = googlegenomics/api-client-android
+	url = https://github.googlesource.com/googlegenomics/api-client-android
+[submodule "googlegenomics/api-client-java"]
+	path = googlegenomics/api-client-java
+	url = https://github.googlesource.com/googlegenomics/api-client-java
+[submodule "googlegenomics/api-client-javascript"]
+	path = googlegenomics/api-client-javascript
+	url = https://github.googlesource.com/googlegenomics/api-client-javascript
+[submodule "googlegenomics/api-client-python"]
+	path = googlegenomics/api-client-python
+	url = https://github.googlesource.com/googlegenomics/api-client-python
+[submodule "googlegenomics/api-provider-local-java"]
+	path = googlegenomics/api-provider-local-java
+	url = https://github.googlesource.com/googlegenomics/api-provider-local-java
+[submodule "googlegenomics/bigquery-examples"]
+	path = googlegenomics/bigquery-examples
+	url = https://github.googlesource.com/googlegenomics/bigquery-examples
+[submodule "googlegenomics/bioconductor-workshop-r"]
+	path = googlegenomics/bioconductor-workshop-r
+	url = https://github.googlesource.com/googlegenomics/bioconductor-workshop-r
+[submodule "googlegenomics/bunny-logs"]
+	path = googlegenomics/bunny-logs
+	url = https://github.googlesource.com/googlegenomics/bunny-logs
+[submodule "googlegenomics/codelabs"]
+	path = googlegenomics/codelabs
+	url = https://github.googlesource.com/googlegenomics/codelabs
+[submodule "googlegenomics/dataflow-java"]
+	path = googlegenomics/dataflow-java
+	url = https://github.googlesource.com/googlegenomics/dataflow-java
+[submodule "googlegenomics/denovo-variant-caller-java"]
+	path = googlegenomics/denovo-variant-caller-java
+	url = https://github.googlesource.com/googlegenomics/denovo-variant-caller-java
+[submodule "googlegenomics/gatk-tools-java"]
+	path = googlegenomics/gatk-tools-java
+	url = https://github.googlesource.com/googlegenomics/gatk-tools-java
+[submodule "googlegenomics/gce-images"]
+	path = googlegenomics/gce-images
+	url = https://github.googlesource.com/googlegenomics/gce-images
+[submodule "googlegenomics/getting-started-bigquery"]
+	path = googlegenomics/getting-started-bigquery
+	url = https://github.googlesource.com/googlegenomics/getting-started-bigquery
+[submodule "googlegenomics/getting-started-with-the-api"]
+	path = googlegenomics/getting-started-with-the-api
+	url = https://github.googlesource.com/googlegenomics/getting-started-with-the-api
+[submodule "googlegenomics/grid-computing-tools"]
+	path = googlegenomics/grid-computing-tools
+	url = https://github.googlesource.com/googlegenomics/grid-computing-tools
+[submodule "googlegenomics/spark-examples"]
+	path = googlegenomics/spark-examples
+	url = https://github.googlesource.com/googlegenomics/spark-examples
+[submodule "googlegenomics/start-here"]
+	path = googlegenomics/start-here
+	url = https://github.googlesource.com/googlegenomics/start-here
+[submodule "googlegenomics/utils-java"]
+	path = googlegenomics/utils-java
+	url = https://github.googlesource.com/googlegenomics/utils-java
 [submodule "googlegsa/activedirectory"]
 	path = googlegsa/activedirectory
 	url = https://github.googlesource.com/googlegsa/activedirectory
