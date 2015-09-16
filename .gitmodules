@@ -13,6 +13,9 @@
 [submodule "broadinstitute/hellbender"]
 	path = broadinstitute/hellbender
 	url = https://github.googlesource.com/broadinstitute/hellbender
+[submodule "catapult-project/catapult"]
+	path = catapult-project/catapult
+	url = https://github.googlesource.com/catapult-project/catapult
 [submodule "codemirror/CodeMirror"]
 	path = codemirror/CodeMirror
 	url = https://github.googlesource.com/codemirror/CodeMirror
@@ -61,6 +64,15 @@
 [submodule "google/certificate-transparency"]
 	path = google/certificate-transparency
 	url = https://github.googlesource.com/google/certificate-transparency
+[submodule "google/closure-compiler"]
+	path = google/closure-compiler
+	url = https://github.googlesource.com/google/closure-compiler
+[submodule "google/closure-library"]
+	path = google/closure-library
+	url = https://github.googlesource.com/google/closure-library
+[submodule "google/closure-templates"]
+	path = google/closure-templates
+	url = https://github.googlesource.com/google/closure-templates
 [submodule "google/error-prone"]
 	path = google/error-prone
 	url = https://github.googlesource.com/google/error-prone
@@ -73,6 +85,9 @@
 [submodule "google/gsa-admin-toolkit"]
 	path = google/gsa-admin-toolkit
 	url = https://github.googlesource.com/google/gsa-admin-toolkit
+[submodule "google/jsontoken"]
+	path = google/jsontoken
+	url = https://github.googlesource.com/google/jsontoken
 [submodule "google/kythe"]
 	path = google/kythe
 	url = https://github.googlesource.com/google/kythe
@@ -172,6 +187,15 @@
 [submodule "googlegsa/sharepoint"]
 	path = googlegsa/sharepoint
 	url = https://github.googlesource.com/googlegsa/sharepoint
+[submodule "googlei18n/libaddressinput"]
+	path = googlei18n/libaddressinput
+	url = https://github.googlesource.com/googlei18n/libaddressinput
+[submodule "googlei18n/libphonenumber"]
+	path = googlei18n/libphonenumber
+	url = https://github.googlesource.com/googlei18n/libphonenumber
+[submodule "grpc/grpc-go"]
+	path = grpc/grpc-go
+	url = https://github.googlesource.com/grpc/grpc-go
 [submodule "grpc/grpc-java"]
 	path = grpc/grpc-java
 	url = https://github.googlesource.com/grpc/grpc-java
@@ -184,6 +208,15 @@
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
+[submodule "luci/gae"]
+	path = luci/gae
+	url = https://github.googlesource.com/luci/gae
+[submodule "luci/luci-go"]
+	path = luci/luci-go
+	url = https://github.googlesource.com/luci/luci-go
+[submodule "luci/luci-py"]
+	path = luci/luci-py
+	url = https://github.googlesource.com/luci/luci-py
 [submodule "open-source-parsers/jsoncpp"]
 	path = open-source-parsers/jsoncpp
 	url = https://github.googlesource.com/open-source-parsers/jsoncpp
@@ -193,3 +226,9 @@
 [submodule "robolectric/robolectric"]
 	path = robolectric/robolectric
 	url = https://github.googlesource.com/robolectric/robolectric
+[submodule "square/okhttp"]
+	path = square/okhttp
+	url = https://github.googlesource.com/square/okhttp
+[submodule "youtube/vitess"]
+	path = youtube/vitess
+	url = https://github.googlesource.com/youtube/vitess
