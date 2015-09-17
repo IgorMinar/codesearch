@@ -1,12 +1,63 @@
+[submodule "GoogleCloudPlatform/PerfKitBenchmarker"]
+	path = GoogleCloudPlatform/PerfKitBenchmarker
+	url = https://github.googlesource.com/GoogleCloudPlatform/PerfKitBenchmarker
+[submodule "GoogleCloudPlatform/PerfKitExplorer"]
+	path = GoogleCloudPlatform/PerfKitExplorer
+	url = https://github.googlesource.com/GoogleCloudPlatform/PerfKitExplorer
+[submodule "GoogleCloudPlatform/appengine-gcs-client"]
+	path = GoogleCloudPlatform/appengine-gcs-client
+	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-gcs-client
+[submodule "GoogleCloudPlatform/appengine-mapreduce"]
+	path = GoogleCloudPlatform/appengine-mapreduce
+	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-mapreduce
+[submodule "GoogleCloudPlatform/appengine-pipelines"]
+	path = GoogleCloudPlatform/appengine-pipelines
+	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-pipelines
+[submodule "GoogleCloudPlatform/cloud-bigtable-client"]
+	path = GoogleCloudPlatform/cloud-bigtable-client
+	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-bigtable-client
+[submodule "GoogleCloudPlatform/cloud-testenv-broker"]
+	path = GoogleCloudPlatform/cloud-testenv-broker
+	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-testenv-broker
+[submodule "GoogleCloudPlatform/cloud-trace-nodejs"]
+	path = GoogleCloudPlatform/cloud-trace-nodejs
+	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-trace-nodejs
 [submodule "GoogleCloudPlatform/collectd-netperf"]
 	path = GoogleCloudPlatform/collectd-netperf
 	url = https://github.googlesource.com/GoogleCloudPlatform/collectd-netperf
+[submodule "GoogleCloudPlatform/compute-image-packages"]
+	path = GoogleCloudPlatform/compute-image-packages
+	url = https://github.googlesource.com/GoogleCloudPlatform/compute-image-packages
+[submodule "GoogleCloudPlatform/compute-image-windows"]
+	path = GoogleCloudPlatform/compute-image-windows
+	url = https://github.googlesource.com/GoogleCloudPlatform/compute-image-windows
+[submodule "GoogleCloudPlatform/gcloud-golang"]
+	path = GoogleCloudPlatform/gcloud-golang
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-golang
+[submodule "GoogleCloudPlatform/gcloud-java"]
+	path = GoogleCloudPlatform/gcloud-java
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-java
+[submodule "GoogleCloudPlatform/gcloud-node"]
+	path = GoogleCloudPlatform/gcloud-node
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-node
+[submodule "GoogleCloudPlatform/gcloud-python"]
+	path = GoogleCloudPlatform/gcloud-python
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-python
+[submodule "GoogleCloudPlatform/gcloud-ruby"]
+	path = GoogleCloudPlatform/gcloud-ruby
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-ruby
+[submodule "GoogleCloudPlatform/gcloud-trace-java"]
+	path = GoogleCloudPlatform/gcloud-trace-java
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-trace-java
 [submodule "GoogleCloudPlatform/gsutil"]
 	path = GoogleCloudPlatform/gsutil
 	url = https://github.googlesource.com/GoogleCloudPlatform/gsutil
 [submodule "angular/angular.js"]
 	path = angular/angular.js
 	url = https://github.googlesource.com/angular/angular.js
+[submodule "angular/angular"]
+	path = angular/angular
+	url = https://github.googlesource.com/angular/angular
 [submodule "bazelbuild/bazel"]
 	path = bazelbuild/bazel
 	url = https://github.googlesource.com/bazelbuild/bazel
