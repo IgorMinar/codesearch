@@ -217,6 +217,12 @@
 [submodule "luci/luci-py"]
 	path = luci/luci-py
 	url = https://github.googlesource.com/luci/luci-py
+[submodule "luci/recipes-py"]
+	path = luci/recipes-py
+	url = https://github.googlesource.com/luci/recipes-py
+[submodule "nodejs/node"]
+	path = nodejs/node
+	url = https://github.googlesource.com/nodejs/node
 [submodule "open-source-parsers/jsoncpp"]
 	path = open-source-parsers/jsoncpp
 	url = https://github.googlesource.com/open-source-parsers/jsoncpp
