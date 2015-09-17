@@ -112,6 +112,15 @@
 [submodule "google/battery-historian"]
 	path = google/battery-historian
 	url = https://github.googlesource.com/google/battery-historian
+[submodule "google/blockly-games"]
+	path = google/blockly-games
+	url = https://github.googlesource.com/google/blockly-games
+[submodule "google/blockly"]
+	path = google/blockly
+	url = https://github.googlesource.com/google/blockly
+[submodule "google/cadvisor"]
+	path = google/cadvisor
+	url = https://github.googlesource.com/google/cadvisor
 [submodule "google/certificate-transparency"]
 	path = google/certificate-transparency
 	url = https://github.googlesource.com/google/certificate-transparency
@@ -124,6 +133,21 @@
 [submodule "google/closure-templates"]
 	path = google/closure-templates
 	url = https://github.googlesource.com/google/closure-templates
+[submodule "google/coursebuilder-android-container-module"]
+	path = google/coursebuilder-android-container-module
+	url = https://github.googlesource.com/google/coursebuilder-android-container-module
+[submodule "google/coursebuilder-core"]
+	path = google/coursebuilder-core
+	url = https://github.googlesource.com/google/coursebuilder-core
+[submodule "google/coursebuilder-lti-module"]
+	path = google/coursebuilder-lti-module
+	url = https://github.googlesource.com/google/coursebuilder-lti-module
+[submodule "google/coursebuilder_xblock_module"]
+	path = google/coursebuilder_xblock_module
+	url = https://github.googlesource.com/google/coursebuilder_xblock_module
+[submodule "google/edash-packager"]
+	path = google/edash-packager
+	url = https://github.googlesource.com/google/edash-packager
 [submodule "google/error-prone"]
 	path = google/error-prone
 	url = https://github.googlesource.com/google/error-prone
@@ -142,6 +166,9 @@
 [submodule "google/kythe"]
 	path = google/kythe
 	url = https://github.googlesource.com/google/kythe
+[submodule "google/rekall"]
+	path = google/rekall
+	url = https://github.googlesource.com/google/rekall
 [submodule "google/shipshape"]
 	path = google/shipshape
 	url = https://github.googlesource.com/google/shipshape
@@ -154,6 +181,39 @@
 [submodule "google/syzygy"]
 	path = google/syzygy
 	url = https://github.googlesource.com/google/syzygy
+[submodule "google/timesketch"]
+	path = google/timesketch
+	url = https://github.googlesource.com/google/timesketch
+[submodule "google/transit"]
+	path = google/transit
+	url = https://github.googlesource.com/google/transit
+[submodule "google/vim-codefmt"]
+	path = google/vim-codefmt
+	url = https://github.googlesource.com/google/vim-codefmt
+[submodule "google/vim-colorscheme-primary"]
+	path = google/vim-colorscheme-primary
+	url = https://github.googlesource.com/google/vim-colorscheme-primary
+[submodule "google/vim-coverage"]
+	path = google/vim-coverage
+	url = https://github.googlesource.com/google/vim-coverage
+[submodule "google/vim-ft-bzl"]
+	path = google/vim-ft-bzl
+	url = https://github.googlesource.com/google/vim-ft-bzl
+[submodule "google/vim-ft-go"]
+	path = google/vim-ft-go
+	url = https://github.googlesource.com/google/vim-ft-go
+[submodule "google/vim-ft-vroom"]
+	path = google/vim-ft-vroom
+	url = https://github.googlesource.com/google/vim-ft-vroom
+[submodule "google/vim-glaive"]
+	path = google/vim-glaive
+	url = https://github.googlesource.com/google/vim-glaive
+[submodule "google/vim-maktaba"]
+	path = google/vim-maktaba
+	url = https://github.googlesource.com/google/vim-maktaba
+[submodule "google/vim-syncopate"]
+	path = google/vim-syncopate
+	url = https://github.googlesource.com/google/vim-syncopate
 [submodule "googlegenomics/api-client-android"]
 	path = googlegenomics/api-client-android
 	url = https://github.googlesource.com/googlegenomics/api-client-android
