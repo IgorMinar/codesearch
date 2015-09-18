@@ -1,3 +1,6 @@
+[submodule "ForensicArtifacts/artifacts"]
+	path = ForensicArtifacts/artifacts
+	url = https://github.googlesource.com/ForensicArtifacts/artifacts
 [submodule "GoogleCloudPlatform/PerfKitBenchmarker"]
 	path = GoogleCloudPlatform/PerfKitBenchmarker
 	url = https://github.googlesource.com/GoogleCloudPlatform/PerfKitBenchmarker
@@ -70,6 +73,9 @@
 [submodule "codemirror/CodeMirror"]
 	path = codemirror/CodeMirror
 	url = https://github.googlesource.com/codemirror/CodeMirror
+[submodule "cxxr-devel/cxxr"]
+	path = cxxr-devel/cxxr
+	url = https://github.googlesource.com/cxxr-devel/cxxr
 [submodule "docker/boot2docker"]
 	path = docker/boot2docker
 	url = https://github.googlesource.com/docker/boot2docker
@@ -145,6 +151,9 @@
 [submodule "google/coursebuilder_xblock_module"]
 	path = google/coursebuilder_xblock_module
 	url = https://github.googlesource.com/google/coursebuilder_xblock_module
+[submodule "google/digitalassetlinks"]
+	path = google/digitalassetlinks
+	url = https://github.googlesource.com/google/digitalassetlinks
 [submodule "google/edash-packager"]
 	path = google/edash-packager
 	url = https://github.googlesource.com/google/edash-packager
@@ -157,6 +166,9 @@
 [submodule "google/googletest"]
 	path = google/googletest
 	url = https://github.googlesource.com/google/googletest
+[submodule "google/grr"]
+	path = google/grr
+	url = https://github.googlesource.com/google/grr
 [submodule "google/gsa-admin-toolkit"]
 	path = google/gsa-admin-toolkit
 	url = https://github.googlesource.com/google/gsa-admin-toolkit
@@ -166,6 +178,9 @@
 [submodule "google/kythe"]
 	path = google/kythe
 	url = https://github.googlesource.com/google/kythe
+[submodule "google/mozc"]
+	path = google/mozc
+	url = https://github.googlesource.com/google/mozc
 [submodule "google/rekall"]
 	path = google/rekall
 	url = https://github.googlesource.com/google/rekall
@@ -304,18 +319,42 @@
 [submodule "googlei18n/libphonenumber"]
 	path = googlei18n/libphonenumber
 	url = https://github.googlesource.com/googlei18n/libphonenumber
+[submodule "grpc/grpc-common"]
+	path = grpc/grpc-common
+	url = https://github.googlesource.com/grpc/grpc-common
+[submodule "grpc/grpc-docker-library"]
+	path = grpc/grpc-docker-library
+	url = https://github.googlesource.com/grpc/grpc-docker-library
 [submodule "grpc/grpc-go"]
 	path = grpc/grpc-go
 	url = https://github.googlesource.com/grpc/grpc-go
 [submodule "grpc/grpc-java"]
 	path = grpc/grpc-java
 	url = https://github.googlesource.com/grpc/grpc-java
+[submodule "grpc/grpc-tools"]
+	path = grpc/grpc-tools
+	url = https://github.googlesource.com/grpc/grpc-tools
+[submodule "grpc/grpc"]
+	path = grpc/grpc
+	url = https://github.googlesource.com/grpc/grpc
+[submodule "grpc/homebrew-grpc"]
+	path = grpc/homebrew-grpc
+	url = https://github.googlesource.com/grpc/homebrew-grpc
 [submodule "halide/Halide"]
 	path = halide/Halide
 	url = https://github.googlesource.com/halide/Halide
+[submodule "jenkinsci/jenkins"]
+	path = jenkinsci/jenkins
+	url = https://github.googlesource.com/jenkinsci/jenkins
+[submodule "jenkinsci/remoting"]
+	path = jenkinsci/remoting
+	url = https://github.googlesource.com/jenkinsci/remoting
 [submodule "joyent/node"]
 	path = joyent/node
 	url = https://github.googlesource.com/joyent/node
+[submodule "kubernetes/heapster"]
+	path = kubernetes/heapster
+	url = https://github.googlesource.com/kubernetes/heapster
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
@@ -346,6 +385,12 @@
 [submodule "square/okhttp"]
 	path = square/okhttp
 	url = https://github.googlesource.com/square/okhttp
+[submodule "uProxy/uproxy-lib"]
+	path = uProxy/uproxy-lib
+	url = https://github.googlesource.com/uProxy/uproxy-lib
+[submodule "uProxy/uproxy"]
+	path = uProxy/uproxy
+	url = https://github.googlesource.com/uProxy/uproxy
 [submodule "youtube/vitess"]
 	path = youtube/vitess
 	url = https://github.googlesource.com/youtube/vitess
