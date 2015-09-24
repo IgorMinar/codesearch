@@ -55,6 +55,9 @@
 [submodule "GoogleCloudPlatform/gsutil"]
 	path = GoogleCloudPlatform/gsutil
 	url = https://github.googlesource.com/GoogleCloudPlatform/gsutil
+[submodule "WPO-Foundation/webpagetest"]
+	path = WPO-Foundation/webpagetest
+	url = https://github.googlesource.com/WPO-Foundation/webpagetest
 [submodule "angular/angular.js"]
 	path = angular/angular.js
 	url = https://github.googlesource.com/angular/angular.js
@@ -118,6 +121,9 @@
 [submodule "google/battery-historian"]
 	path = google/battery-historian
 	url = https://github.googlesource.com/google/battery-historian
+[submodule "google/binnavi"]
+	path = google/binnavi
+	url = https://github.googlesource.com/google/binnavi
 [submodule "google/blockly-games"]
 	path = google/blockly-games
 	url = https://github.googlesource.com/google/blockly-games
@@ -127,6 +133,12 @@
 [submodule "google/cadvisor"]
 	path = google/cadvisor
 	url = https://github.googlesource.com/google/cadvisor
+[submodule "google/calendar-connectors"]
+	path = google/calendar-connectors
+	url = https://github.googlesource.com/google/calendar-connectors
+[submodule "google/cctz"]
+	path = google/cctz
+	url = https://github.googlesource.com/google/cctz
 [submodule "google/certificate-transparency"]
 	path = google/certificate-transparency
 	url = https://github.googlesource.com/google/certificate-transparency
@@ -139,6 +151,9 @@
 [submodule "google/closure-templates"]
 	path = google/closure-templates
 	url = https://github.googlesource.com/google/closure-templates
+[submodule "google/cluster-data"]
+	path = google/cluster-data
+	url = https://github.googlesource.com/google/cluster-data
 [submodule "google/coursebuilder-android-container-module"]
 	path = google/coursebuilder-android-container-module
 	url = https://github.googlesource.com/google/coursebuilder-android-container-module
@@ -157,9 +172,15 @@
 [submodule "google/edash-packager"]
 	path = google/edash-packager
 	url = https://github.googlesource.com/google/edash-packager
+[submodule "google/encrypted-bigquery-client"]
+	path = google/encrypted-bigquery-client
+	url = https://github.googlesource.com/google/encrypted-bigquery-client
 [submodule "google/error-prone"]
 	path = google/error-prone
 	url = https://github.googlesource.com/google/error-prone
+[submodule "google/gaps-support-tool"]
+	path = google/gaps-support-tool
+	url = https://github.googlesource.com/google/gaps-support-tool
 [submodule "google/google-java-format"]
 	path = google/google-java-format
 	url = https://github.googlesource.com/google/google-java-format
@@ -181,6 +202,18 @@
 [submodule "google/mozc"]
 	path = google/mozc
 	url = https://github.googlesource.com/google/mozc
+[submodule "google/open-vcdiff"]
+	path = google/open-vcdiff
+	url = https://github.googlesource.com/google/open-vcdiff
+[submodule "google/openhtf"]
+	path = google/openhtf
+	url = https://github.googlesource.com/google/openhtf
+[submodule "google/play-work"]
+	path = google/play-work
+	url = https://github.googlesource.com/google/play-work
+[submodule "google/python-adb"]
+	path = google/python-adb
+	url = https://github.googlesource.com/google/python-adb
 [submodule "google/rekall"]
 	path = google/rekall
 	url = https://github.googlesource.com/google/rekall
@@ -352,6 +385,9 @@
 [submodule "joyent/node"]
 	path = joyent/node
 	url = https://github.googlesource.com/joyent/node
+[submodule "karma-runner/karma"]
+	path = karma-runner/karma
+	url = https://github.googlesource.com/karma-runner/karma
 [submodule "kubernetes/heapster"]
 	path = kubernetes/heapster
 	url = https://github.googlesource.com/kubernetes/heapster
@@ -370,6 +406,12 @@
 [submodule "luci/recipes-py"]
 	path = luci/recipes-py
 	url = https://github.googlesource.com/luci/recipes-py
+[submodule "mDialog/scala-zeromq"]
+	path = mDialog/scala-zeromq
+	url = https://github.googlesource.com/mDialog/scala-zeromq
+[submodule "mDialog/smoke"]
+	path = mDialog/smoke
+	url = https://github.googlesource.com/mDialog/smoke
 [submodule "nodejs/node"]
 	path = nodejs/node
 	url = https://github.googlesource.com/nodejs/node
@@ -391,6 +433,9 @@
 [submodule "uProxy/uproxy"]
 	path = uProxy/uproxy
 	url = https://github.googlesource.com/uProxy/uproxy
+[submodule "youtube/js_mse_eme"]
+	path = youtube/js_mse_eme
+	url = https://github.googlesource.com/youtube/js_mse_eme
 [submodule "youtube/vitess"]
 	path = youtube/vitess
 	url = https://github.googlesource.com/youtube/vitess
