@@ -55,6 +55,9 @@
 [submodule "GoogleCloudPlatform/gsutil"]
 	path = GoogleCloudPlatform/gsutil
 	url = https://github.googlesource.com/GoogleCloudPlatform/gsutil
+[submodule "SeleniumHQ/selenium"]
+	path = SeleniumHQ/selenium
+	url = https://github.googlesource.com/SeleniumHQ/selenium
 [submodule "WPO-Foundation/webpagetest"]
 	path = WPO-Foundation/webpagetest
 	url = https://github.googlesource.com/WPO-Foundation/webpagetest
@@ -79,6 +82,9 @@
 [submodule "cxxr-devel/cxxr"]
 	path = cxxr-devel/cxxr
 	url = https://github.googlesource.com/cxxr-devel/cxxr
+[submodule "cython/cython"]
+	path = cython/cython
+	url = https://github.googlesource.com/cython/cython
 [submodule "docker/boot2docker"]
 	path = docker/boot2docker
 	url = https://github.googlesource.com/docker/boot2docker
@@ -298,6 +304,9 @@
 [submodule "google/gsa-admin-toolkit"]
 	path = google/gsa-admin-toolkit
 	url = https://github.googlesource.com/google/gsa-admin-toolkit
+[submodule "google/hilbert"]
+	path = google/hilbert
+	url = https://github.googlesource.com/google/hilbert
 [submodule "google/jsontoken"]
 	path = google/jsontoken
 	url = https://github.googlesource.com/google/jsontoken
@@ -313,6 +322,9 @@
 [submodule "google/openhtf"]
 	path = google/openhtf
 	url = https://github.googlesource.com/google/openhtf
+[submodule "google/or-tools"]
+	path = google/or-tools
+	url = https://github.googlesource.com/google/or-tools
 [submodule "google/play-work"]
 	path = google/play-work
 	url = https://github.googlesource.com/google/play-work
@@ -532,15 +544,30 @@
 [submodule "square/okhttp"]
 	path = square/okhttp
 	url = https://github.googlesource.com/square/okhttp
+[submodule "stressapptest/stressapptest"]
+	path = stressapptest/stressapptest
+	url = https://github.googlesource.com/stressapptest/stressapptest
 [submodule "uProxy/uproxy-lib"]
 	path = uProxy/uproxy-lib
 	url = https://github.googlesource.com/uProxy/uproxy-lib
 [submodule "uProxy/uproxy"]
 	path = uProxy/uproxy
 	url = https://github.googlesource.com/uProxy/uproxy
+[submodule "xwiki/xwiki-commons"]
+	path = xwiki/xwiki-commons
+	url = https://github.googlesource.com/xwiki/xwiki-commons
+[submodule "xwiki/xwiki-platform"]
+	path = xwiki/xwiki-platform
+	url = https://github.googlesource.com/xwiki/xwiki-platform
 [submodule "youtube/js_mse_eme"]
 	path = youtube/js_mse_eme
 	url = https://github.googlesource.com/youtube/js_mse_eme
+[submodule "youtube/spfjs"]
+	path = youtube/spfjs
+	url = https://github.googlesource.com/youtube/spfjs
 [submodule "youtube/vitess"]
 	path = youtube/vitess
 	url = https://github.googlesource.com/youtube/vitess
+[submodule "zorzella/guiceberry"]
+	path = zorzella/guiceberry
+	url = https://github.googlesource.com/zorzella/guiceberry
