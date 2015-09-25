@@ -115,9 +115,114 @@
 [submodule "domokit/sky_tools"]
 	path = domokit/sky_tools
 	url = https://github.googlesource.com/domokit/sky_tools
+[submodule "golang/appengine"]
+	path = golang/appengine
+	url = https://github.googlesource.com/golang/appengine
+[submodule "golang/arch"]
+	path = golang/arch
+	url = https://github.googlesource.com/golang/arch
+[submodule "golang/benchmarks"]
+	path = golang/benchmarks
+	url = https://github.googlesource.com/golang/benchmarks
+[submodule "golang/blog"]
+	path = golang/blog
+	url = https://github.googlesource.com/golang/blog
+[submodule "golang/build"]
+	path = golang/build
+	url = https://github.googlesource.com/golang/build
+[submodule "golang/crypto"]
+	path = golang/crypto
+	url = https://github.googlesource.com/golang/crypto
+[submodule "golang/debug"]
+	path = golang/debug
+	url = https://github.googlesource.com/golang/debug
+[submodule "golang/example"]
+	path = golang/example
+	url = https://github.googlesource.com/golang/example
+[submodule "golang/exp"]
+	path = golang/exp
+	url = https://github.googlesource.com/golang/exp
+[submodule "golang/freetype"]
+	path = golang/freetype
+	url = https://github.googlesource.com/golang/freetype
+[submodule "golang/gddo"]
+	path = golang/gddo
+	url = https://github.googlesource.com/golang/gddo
+[submodule "golang/geo"]
+	path = golang/geo
+	url = https://github.googlesource.com/golang/geo
+[submodule "golang/glog"]
+	path = golang/glog
+	url = https://github.googlesource.com/golang/glog
 [submodule "golang/go"]
 	path = golang/go
 	url = https://github.googlesource.com/golang/go
+[submodule "golang/gofrontend"]
+	path = golang/gofrontend
+	url = https://github.googlesource.com/golang/gofrontend
+[submodule "golang/groupcache"]
+	path = golang/groupcache
+	url = https://github.googlesource.com/golang/groupcache
+[submodule "golang/image"]
+	path = golang/image
+	url = https://github.googlesource.com/golang/image
+[submodule "golang/leveldb"]
+	path = golang/leveldb
+	url = https://github.googlesource.com/golang/leveldb
+[submodule "golang/lint"]
+	path = golang/lint
+	url = https://github.googlesource.com/golang/lint
+[submodule "golang/mobile"]
+	path = golang/mobile
+	url = https://github.googlesource.com/golang/mobile
+[submodule "golang/mock"]
+	path = golang/mock
+	url = https://github.googlesource.com/golang/mock
+[submodule "golang/net"]
+	path = golang/net
+	url = https://github.googlesource.com/golang/net
+[submodule "golang/oauth2"]
+	path = golang/oauth2
+	url = https://github.googlesource.com/golang/oauth2
+[submodule "golang/playground"]
+	path = golang/playground
+	url = https://github.googlesource.com/golang/playground
+[submodule "golang/proposal"]
+	path = golang/proposal
+	url = https://github.googlesource.com/golang/proposal
+[submodule "golang/protobuf"]
+	path = golang/protobuf
+	url = https://github.googlesource.com/golang/protobuf
+[submodule "golang/review"]
+	path = golang/review
+	url = https://github.googlesource.com/golang/review
+[submodule "golang/snappy"]
+	path = golang/snappy
+	url = https://github.googlesource.com/golang/snappy
+[submodule "golang/sublime-build"]
+	path = golang/sublime-build
+	url = https://github.googlesource.com/golang/sublime-build
+[submodule "golang/sublime-config"]
+	path = golang/sublime-config
+	url = https://github.googlesource.com/golang/sublime-config
+[submodule "golang/sys"]
+	path = golang/sys
+	url = https://github.googlesource.com/golang/sys
+[submodule "golang/talks"]
+	path = golang/talks
+	url = https://github.googlesource.com/golang/talks
+[submodule "golang/text"]
+	path = golang/text
+	url = https://github.googlesource.com/golang/text
+[submodule "golang/tools"]
+	path = golang/tools
+	url = https://github.googlesource.com/golang/tools
+[submodule "golang/tour"]
+	path = golang/tour
+	url = https://github.googlesource.com/golang/tour
+[submodule "golang/winstrap"]
+	path = golang/winstrap
+	url = https://github.googlesource.com/golang/winstrap
 [submodule "google/battery-historian"]
 	path = google/battery-historian
 	url = https://github.googlesource.com/google/battery-historian
