@@ -1,6 +1,9 @@
 [submodule "ForensicArtifacts/artifacts"]
 	path = ForensicArtifacts/artifacts
 	url = https://github.googlesource.com/ForensicArtifacts/artifacts
+[submodule "GoogleCloudPlatform/DataflowJavaSDK"]
+	path = GoogleCloudPlatform/DataflowJavaSDK
+	url = https://github.googlesource.com/GoogleCloudPlatform/DataflowJavaSDK
 [submodule "GoogleCloudPlatform/PerfKitBenchmarker"]
 	path = GoogleCloudPlatform/PerfKitBenchmarker
 	url = https://github.googlesource.com/GoogleCloudPlatform/PerfKitBenchmarker
