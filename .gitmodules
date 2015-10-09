@@ -1,3 +1,6 @@
+[submodule "FFmpeg/FFmpeg"]
+	path = FFmpeg/FFmpeg
+	url = https://github.googlesource.com/FFmpeg/FFmpeg
 [submodule "ForensicArtifacts/artifacts"]
 	path = ForensicArtifacts/artifacts
 	url = https://github.googlesource.com/ForensicArtifacts/artifacts
@@ -61,6 +64,9 @@
 [submodule "SeleniumHQ/selenium"]
 	path = SeleniumHQ/selenium
 	url = https://github.googlesource.com/SeleniumHQ/selenium
+[submodule "Stackdriver/collectd"]
+	path = Stackdriver/collectd
+	url = https://github.googlesource.com/Stackdriver/collectd
 [submodule "WPO-Foundation/webpagetest"]
 	path = WPO-Foundation/webpagetest
 	url = https://github.googlesource.com/WPO-Foundation/webpagetest
@@ -124,6 +130,12 @@
 [submodule "domokit/sky_tools"]
 	path = domokit/sky_tools
 	url = https://github.googlesource.com/domokit/sky_tools
+[submodule "freebsd/freebsd"]
+	path = freebsd/freebsd
+	url = https://github.googlesource.com/freebsd/freebsd
+[submodule "gcc-mirror/gcc"]
+	path = gcc-mirror/gcc
+	url = https://github.googlesource.com/gcc-mirror/gcc
 [submodule "golang/appengine"]
 	path = golang/appengine
 	url = https://github.googlesource.com/golang/appengine
@@ -295,6 +307,9 @@
 [submodule "google/gaps-support-tool"]
 	path = google/gaps-support-tool
 	url = https://github.googlesource.com/google/gaps-support-tool
+[submodule "google/ggrc-core"]
+	path = google/ggrc-core
+	url = https://github.googlesource.com/google/ggrc-core
 [submodule "google/google-java-format"]
 	path = google/google-java-format
 	url = https://github.googlesource.com/google/google-java-format
@@ -505,6 +520,12 @@
 [submodule "joyent/node"]
 	path = joyent/node
 	url = https://github.googlesource.com/joyent/node
+[submodule "jruby/jruby"]
+	path = jruby/jruby
+	url = https://github.googlesource.com/jruby/jruby
+[submodule "jverkoey/nimbus"]
+	path = jverkoey/nimbus
+	url = https://github.googlesource.com/jverkoey/nimbus
 [submodule "karma-runner/karma"]
 	path = karma-runner/karma
 	url = https://github.googlesource.com/karma-runner/karma
@@ -514,6 +535,12 @@
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
+[submodule "llvm-mirror/clang"]
+	path = llvm-mirror/clang
+	url = https://github.googlesource.com/llvm-mirror/clang
+[submodule "llvm-mirror/llvm"]
+	path = llvm-mirror/llvm
+	url = https://github.googlesource.com/llvm-mirror/llvm
 [submodule "luci/gae"]
 	path = luci/gae
 	url = https://github.googlesource.com/luci/gae
