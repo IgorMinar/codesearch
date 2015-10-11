@@ -535,12 +535,39 @@
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
+[submodule "llvm-mirror/clang-tools-extra"]
+	path = llvm-mirror/clang-tools-extra
+	url = https://github.googlesource.com/llvm-mirror/clang-tools-extra
 [submodule "llvm-mirror/clang"]
 	path = llvm-mirror/clang
 	url = https://github.googlesource.com/llvm-mirror/clang
+[submodule "llvm-mirror/compiler-rt"]
+	path = llvm-mirror/compiler-rt
+	url = https://github.googlesource.com/llvm-mirror/compiler-rt
+[submodule "llvm-mirror/libclc"]
+	path = llvm-mirror/libclc
+	url = https://github.googlesource.com/llvm-mirror/libclc
+[submodule "llvm-mirror/libcxx"]
+	path = llvm-mirror/libcxx
+	url = https://github.googlesource.com/llvm-mirror/libcxx
+[submodule "llvm-mirror/libcxxabi"]
+	path = llvm-mirror/libcxxabi
+	url = https://github.googlesource.com/llvm-mirror/libcxxabi
+[submodule "llvm-mirror/libunwind"]
+	path = llvm-mirror/libunwind
+	url = https://github.googlesource.com/llvm-mirror/libunwind
+[submodule "llvm-mirror/lld"]
+	path = llvm-mirror/lld
+	url = https://github.googlesource.com/llvm-mirror/lld
+[submodule "llvm-mirror/lldb"]
+	path = llvm-mirror/lldb
+	url = https://github.googlesource.com/llvm-mirror/lldb
 [submodule "llvm-mirror/llvm"]
 	path = llvm-mirror/llvm
 	url = https://github.googlesource.com/llvm-mirror/llvm
+[submodule "llvm-mirror/openmp"]
+	path = llvm-mirror/openmp
+	url = https://github.googlesource.com/llvm-mirror/openmp
 [submodule "luci/gae"]
 	path = luci/gae
 	url = https://github.googlesource.com/luci/gae
