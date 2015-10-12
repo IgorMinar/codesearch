@@ -43,6 +43,9 @@
 [submodule "GoogleCloudPlatform/gcloud-golang"]
 	path = GoogleCloudPlatform/gcloud-golang
 	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-golang
+[submodule "GoogleCloudPlatform/gcloud-intellij"]
+	path = GoogleCloudPlatform/gcloud-intellij
+	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-intellij
 [submodule "GoogleCloudPlatform/gcloud-java"]
 	path = GoogleCloudPlatform/gcloud-java
 	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-java
@@ -85,6 +88,9 @@
 [submodule "catapult-project/catapult"]
 	path = catapult-project/catapult
 	url = https://github.googlesource.com/catapult-project/catapult
+[submodule "chromium/dom-distiller"]
+	path = chromium/dom-distiller
+	url = https://github.googlesource.com/chromium/dom-distiller
 [submodule "codemirror/CodeMirror"]
 	path = codemirror/CodeMirror
 	url = https://github.googlesource.com/codemirror/CodeMirror
@@ -610,6 +616,18 @@
 [submodule "uProxy/uproxy"]
 	path = uProxy/uproxy
 	url = https://github.googlesource.com/uProxy/uproxy
+[submodule "webrtc/adapter"]
+	path = webrtc/adapter
+	url = https://github.googlesource.com/webrtc/adapter
+[submodule "webrtc/apprtc"]
+	path = webrtc/apprtc
+	url = https://github.googlesource.com/webrtc/apprtc
+[submodule "webrtc/samples"]
+	path = webrtc/samples
+	url = https://github.googlesource.com/webrtc/samples
+[submodule "webrtc/testrtc"]
+	path = webrtc/testrtc
+	url = https://github.googlesource.com/webrtc/testrtc
 [submodule "xwiki/xwiki-commons"]
 	path = xwiki/xwiki-commons
 	url = https://github.googlesource.com/xwiki/xwiki-commons
