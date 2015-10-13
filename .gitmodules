@@ -64,6 +64,9 @@
 [submodule "GoogleCloudPlatform/gsutil"]
 	path = GoogleCloudPlatform/gsutil
 	url = https://github.googlesource.com/GoogleCloudPlatform/gsutil
+[submodule "JetBrains/intellij-community"]
+	path = JetBrains/intellij-community
+	url = https://github.googlesource.com/JetBrains/intellij-community
 [submodule "SeleniumHQ/selenium"]
 	path = SeleniumHQ/selenium
 	url = https://github.googlesource.com/SeleniumHQ/selenium
@@ -352,6 +355,9 @@
 [submodule "google/play-work"]
 	path = google/play-work
 	url = https://github.googlesource.com/google/play-work
+[submodule "google/protobuf"]
+	path = google/protobuf
+	url = https://github.googlesource.com/google/protobuf
 [submodule "google/python-adb"]
 	path = google/python-adb
 	url = https://github.googlesource.com/google/python-adb
