@@ -76,6 +76,9 @@
 [submodule "WPO-Foundation/webpagetest"]
 	path = WPO-Foundation/webpagetest
 	url = https://github.googlesource.com/WPO-Foundation/webpagetest
+[submodule "ampproject/amphtml"]
+	path = ampproject/amphtml
+	url = https://github.googlesource.com/ampproject/amphtml
 [submodule "angular/angular.js"]
 	path = angular/angular.js
 	url = https://github.googlesource.com/angular/angular.js
@@ -253,6 +256,9 @@
 [submodule "golang/winstrap"]
 	path = golang/winstrap
 	url = https://github.googlesource.com/golang/winstrap
+[submodule "google/apitools"]
+	path = google/apitools
+	url = https://github.googlesource.com/google/apitools
 [submodule "google/battery-historian"]
 	path = google/battery-historian
 	url = https://github.googlesource.com/google/battery-historian
@@ -343,6 +349,9 @@
 [submodule "google/mozc"]
 	path = google/mozc
 	url = https://github.googlesource.com/google/mozc
+[submodule "google/oauth2client"]
+	path = google/oauth2client
+	url = https://github.googlesource.com/google/oauth2client
 [submodule "google/open-vcdiff"]
 	path = google/open-vcdiff
 	url = https://github.googlesource.com/google/open-vcdiff
@@ -598,6 +607,9 @@
 [submodule "mDialog/smoke"]
 	path = mDialog/smoke
 	url = https://github.googlesource.com/mDialog/smoke
+[submodule "matplotlib/matplotlib"]
+	path = matplotlib/matplotlib
+	url = https://github.googlesource.com/matplotlib/matplotlib
 [submodule "nodejs/node"]
 	path = nodejs/node
 	url = https://github.googlesource.com/nodejs/node
@@ -607,6 +619,9 @@
 [submodule "pagespeed/ngx_pagespeed"]
 	path = pagespeed/ngx_pagespeed
 	url = https://github.googlesource.com/pagespeed/ngx_pagespeed
+[submodule "pydata/pandas"]
+	path = pydata/pandas
+	url = https://github.googlesource.com/pydata/pandas
 [submodule "robolectric/robolectric"]
 	path = robolectric/robolectric
 	url = https://github.googlesource.com/robolectric/robolectric
