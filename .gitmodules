@@ -1,3 +1,6 @@
+[submodule "CocoaPods/CocoaPods"]
+	path = CocoaPods/CocoaPods
+	url = https://github.googlesource.com/CocoaPods/CocoaPods
 [submodule "FFmpeg/FFmpeg"]
 	path = FFmpeg/FFmpeg
 	url = https://github.googlesource.com/FFmpeg/FFmpeg
@@ -88,6 +91,9 @@
 [submodule "bazelbuild/bazel"]
 	path = bazelbuild/bazel
 	url = https://github.googlesource.com/bazelbuild/bazel
+[submodule "bazelbuild/continuous-integration"]
+	path = bazelbuild/continuous-integration
+	url = https://github.googlesource.com/bazelbuild/continuous-integration
 [submodule "broadinstitute/hellbender"]
 	path = broadinstitute/hellbender
 	url = https://github.googlesource.com/broadinstitute/hellbender
@@ -148,6 +154,9 @@
 [submodule "gcc-mirror/gcc"]
 	path = gcc-mirror/gcc
 	url = https://github.googlesource.com/gcc-mirror/gcc
+[submodule "gnachman/iTerm2"]
+	path = gnachman/iTerm2
+	url = https://github.googlesource.com/gnachman/iTerm2
 [submodule "golang/appengine"]
 	path = golang/appengine
 	url = https://github.googlesource.com/golang/appengine
@@ -295,6 +304,9 @@
 [submodule "google/cluster-data"]
 	path = google/cluster-data
 	url = https://github.googlesource.com/google/cluster-data
+[submodule "google/consumer-surveys"]
+	path = google/consumer-surveys
+	url = https://github.googlesource.com/google/consumer-surveys
 [submodule "google/coursebuilder-android-container-module"]
 	path = google/coursebuilder-android-container-module
 	url = https://github.googlesource.com/google/coursebuilder-android-container-module
@@ -349,6 +361,9 @@
 [submodule "google/mozc"]
 	path = google/mozc
 	url = https://github.googlesource.com/google/mozc
+[submodule "google/nogotofail"]
+	path = google/nogotofail
+	url = https://github.googlesource.com/google/nogotofail
 [submodule "google/oauth2client"]
 	path = google/oauth2client
 	url = https://github.googlesource.com/google/oauth2client
@@ -637,6 +652,9 @@
 [submodule "uProxy/uproxy"]
 	path = uProxy/uproxy
 	url = https://github.googlesource.com/uProxy/uproxy
+[submodule "webmproject/libvpx"]
+	path = webmproject/libvpx
+	url = https://github.googlesource.com/webmproject/libvpx
 [submodule "webrtc/adapter"]
 	path = webrtc/adapter
 	url = https://github.googlesource.com/webrtc/adapter
