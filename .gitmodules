@@ -7,6 +7,9 @@
 [submodule "ForensicArtifacts/artifacts"]
 	path = ForensicArtifacts/artifacts
 	url = https://github.googlesource.com/ForensicArtifacts/artifacts
+[submodule "GoogleChrome/ioweb2015"]
+	path = GoogleChrome/ioweb2015
+	url = https://github.googlesource.com/GoogleChrome/ioweb2015
 [submodule "GoogleCloudPlatform/DataflowJavaSDK"]
 	path = GoogleCloudPlatform/DataflowJavaSDK
 	url = https://github.googlesource.com/GoogleCloudPlatform/DataflowJavaSDK
@@ -88,12 +91,18 @@
 [submodule "angular/angular"]
 	path = angular/angular
 	url = https://github.googlesource.com/angular/angular
+[submodule "apache/incubator-wave"]
+	path = apache/incubator-wave
+	url = https://github.googlesource.com/apache/incubator-wave
 [submodule "bazelbuild/bazel"]
 	path = bazelbuild/bazel
 	url = https://github.googlesource.com/bazelbuild/bazel
 [submodule "bazelbuild/continuous-integration"]
 	path = bazelbuild/continuous-integration
 	url = https://github.googlesource.com/bazelbuild/continuous-integration
+[submodule "brho/akaros"]
+	path = brho/akaros
+	url = https://github.googlesource.com/brho/akaros
 [submodule "broadinstitute/hellbender"]
 	path = broadinstitute/hellbender
 	url = https://github.googlesource.com/broadinstitute/hellbender
@@ -547,6 +556,9 @@
 [submodule "halide/Halide"]
 	path = halide/Halide
 	url = https://github.googlesource.com/halide/Halide
+[submodule "ipomoena/dasher"]
+	path = ipomoena/dasher
+	url = https://github.googlesource.com/ipomoena/dasher
 [submodule "jenkinsci/jenkins"]
 	path = jenkinsci/jenkins
 	url = https://github.googlesource.com/jenkinsci/jenkins
@@ -565,6 +577,9 @@
 [submodule "karma-runner/karma"]
 	path = karma-runner/karma
 	url = https://github.googlesource.com/karma-runner/karma
+[submodule "kohler/hotcrp"]
+	path = kohler/hotcrp
+	url = https://github.googlesource.com/kohler/hotcrp
 [submodule "kubernetes/heapster"]
 	path = kubernetes/heapster
 	url = https://github.googlesource.com/kubernetes/heapster
@@ -616,6 +631,15 @@
 [submodule "luci/recipes-py"]
 	path = luci/recipes-py
 	url = https://github.googlesource.com/luci/recipes-py
+[submodule "m-lab/mlab-ns"]
+	path = m-lab/mlab-ns
+	url = https://github.googlesource.com/m-lab/mlab-ns
+[submodule "m-lab/mlab-wikis"]
+	path = m-lab/mlab-wikis
+	url = https://github.googlesource.com/m-lab/mlab-wikis
+[submodule "m-lab/ndt"]
+	path = m-lab/ndt
+	url = https://github.googlesource.com/m-lab/ndt
 [submodule "mDialog/scala-zeromq"]
 	path = mDialog/scala-zeromq
 	url = https://github.googlesource.com/mDialog/scala-zeromq
@@ -625,6 +649,9 @@
 [submodule "matplotlib/matplotlib"]
 	path = matplotlib/matplotlib
 	url = https://github.googlesource.com/matplotlib/matplotlib
+[submodule "ndt-project/ndt"]
+	path = ndt-project/ndt
+	url = https://github.googlesource.com/ndt-project/ndt
 [submodule "nodejs/node"]
 	path = nodejs/node
 	url = https://github.googlesource.com/nodejs/node
@@ -637,6 +664,9 @@
 [submodule "pydata/pandas"]
 	path = pydata/pandas
 	url = https://github.googlesource.com/pydata/pandas
+[submodule "rjogrady/ninja"]
+	path = rjogrady/ninja
+	url = https://github.googlesource.com/rjogrady/ninja
 [submodule "robolectric/robolectric"]
 	path = robolectric/robolectric
 	url = https://github.googlesource.com/robolectric/robolectric
@@ -646,6 +676,9 @@
 [submodule "stressapptest/stressapptest"]
 	path = stressapptest/stressapptest
 	url = https://github.googlesource.com/stressapptest/stressapptest
+[submodule "u-boot/u-boot"]
+	path = u-boot/u-boot
+	url = https://github.googlesource.com/u-boot/u-boot
 [submodule "uProxy/uproxy-lib"]
 	path = uProxy/uproxy-lib
 	url = https://github.googlesource.com/uProxy/uproxy-lib
