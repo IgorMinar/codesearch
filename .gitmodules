@@ -46,6 +46,9 @@
 [submodule "GoogleCloudPlatform/compute-image-windows"]
 	path = GoogleCloudPlatform/compute-image-windows
 	url = https://github.googlesource.com/GoogleCloudPlatform/compute-image-windows
+[submodule "GoogleCloudPlatform/compute-user-accounts"]
+	path = GoogleCloudPlatform/compute-user-accounts
+	url = https://github.googlesource.com/GoogleCloudPlatform/compute-user-accounts
 [submodule "GoogleCloudPlatform/gcloud-golang"]
 	path = GoogleCloudPlatform/gcloud-golang
 	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-golang
@@ -634,15 +637,24 @@
 [submodule "luci/recipes-py"]
 	path = luci/recipes-py
 	url = https://github.googlesource.com/luci/recipes-py
+[submodule "m-lab/collectd-mlab"]
+	path = m-lab/collectd-mlab
+	url = https://github.googlesource.com/m-lab/collectd-mlab
 [submodule "m-lab/mlab-ns"]
 	path = m-lab/mlab-ns
 	url = https://github.googlesource.com/m-lab/mlab-ns
+[submodule "m-lab/mlab-observatory"]
+	path = m-lab/mlab-observatory
+	url = https://github.googlesource.com/m-lab/mlab-observatory
 [submodule "m-lab/mlab-wikis"]
 	path = m-lab/mlab-wikis
 	url = https://github.googlesource.com/m-lab/mlab-wikis
 [submodule "m-lab/ndt"]
 	path = m-lab/ndt
 	url = https://github.googlesource.com/m-lab/ndt
+[submodule "m-lab/telescope"]
+	path = m-lab/telescope
+	url = https://github.googlesource.com/m-lab/telescope
 [submodule "mDialog/scala-zeromq"]
 	path = mDialog/scala-zeromq
 	url = https://github.googlesource.com/mDialog/scala-zeromq
