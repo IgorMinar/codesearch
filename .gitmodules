@@ -571,6 +571,9 @@
 [submodule "jruby/jruby"]
 	path = jruby/jruby
 	url = https://github.googlesource.com/jruby/jruby
+[submodule "jsonn/src"]
+	path = jsonn/src
+	url = https://github.googlesource.com/jsonn/src
 [submodule "jverkoey/nimbus"]
 	path = jverkoey/nimbus
 	url = https://github.googlesource.com/jverkoey/nimbus
