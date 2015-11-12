@@ -28,6 +28,9 @@
 [submodule "GoogleCloudPlatform/appengine-pipelines"]
 	path = GoogleCloudPlatform/appengine-pipelines
 	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-pipelines
+[submodule "GoogleCloudPlatform/appengine-sidecars-docker"]
+	path = GoogleCloudPlatform/appengine-sidecars-docker
+	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-sidecars-docker
 [submodule "GoogleCloudPlatform/cloud-bigtable-client"]
 	path = GoogleCloudPlatform/cloud-bigtable-client
 	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-bigtable-client
