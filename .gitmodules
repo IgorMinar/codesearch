@@ -1,6 +1,12 @@
 [submodule "CocoaPods/CocoaPods"]
 	path = CocoaPods/CocoaPods
 	url = https://github.googlesource.com/CocoaPods/CocoaPods
+[submodule "DynamoRIO/drmemory"]
+	path = DynamoRIO/drmemory
+	url = https://github.googlesource.com/DynamoRIO/drmemory
+[submodule "DynamoRIO/dynamorio"]
+	path = DynamoRIO/dynamorio
+	url = https://github.googlesource.com/DynamoRIO/dynamorio
 [submodule "FFmpeg/FFmpeg"]
 	path = FFmpeg/FFmpeg
 	url = https://github.googlesource.com/FFmpeg/FFmpeg
@@ -589,6 +595,9 @@
 [submodule "kohler/hotcrp"]
 	path = kohler/hotcrp
 	url = https://github.googlesource.com/kohler/hotcrp
+[submodule "kubernetes/deployment-manager"]
+	path = kubernetes/deployment-manager
+	url = https://github.googlesource.com/kubernetes/deployment-manager
 [submodule "kubernetes/heapster"]
 	path = kubernetes/heapster
 	url = https://github.googlesource.com/kubernetes/heapster
