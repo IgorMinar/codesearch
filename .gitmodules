@@ -34,6 +34,9 @@
 [submodule "GoogleCloudPlatform/appengine-pipelines"]
 	path = GoogleCloudPlatform/appengine-pipelines
 	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-pipelines
+[submodule "GoogleCloudPlatform/appengine-python-vm-runtime"]
+	path = GoogleCloudPlatform/appengine-python-vm-runtime
+	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-python-vm-runtime
 [submodule "GoogleCloudPlatform/appengine-sidecars-docker"]
 	path = GoogleCloudPlatform/appengine-sidecars-docker
 	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-sidecars-docker
@@ -169,6 +172,9 @@
 [submodule "domokit/sky_tools"]
 	path = domokit/sky_tools
 	url = https://github.googlesource.com/domokit/sky_tools
+[submodule "facebook/folly"]
+	path = facebook/folly
+	url = https://github.googlesource.com/facebook/folly
 [submodule "freebsd/freebsd"]
 	path = freebsd/freebsd
 	url = https://github.googlesource.com/freebsd/freebsd
