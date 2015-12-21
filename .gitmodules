@@ -88,6 +88,9 @@
 [submodule "JetBrains/intellij-community"]
 	path = JetBrains/intellij-community
 	url = https://github.googlesource.com/JetBrains/intellij-community
+[submodule "KhronosGroup/SPIRV-Tools"]
+	path = KhronosGroup/SPIRV-Tools
+	url = https://github.googlesource.com/KhronosGroup/SPIRV-Tools
 [submodule "SeleniumHQ/selenium"]
 	path = SeleniumHQ/selenium
 	url = https://github.googlesource.com/SeleniumHQ/selenium
@@ -415,6 +418,9 @@
 [submodule "google/rekall"]
 	path = google/rekall
 	url = https://github.googlesource.com/google/rekall
+[submodule "google/shaderc"]
+	path = google/shaderc
+	url = https://github.googlesource.com/google/shaderc
 [submodule "google/shipshape"]
 	path = google/shipshape
 	url = https://github.googlesource.com/google/shipshape
@@ -703,6 +709,39 @@
 [submodule "robolectric/robolectric"]
 	path = robolectric/robolectric
 	url = https://github.googlesource.com/robolectric/robolectric
+[submodule "spinnaker/clouddriver"]
+	path = spinnaker/clouddriver
+	url = https://github.googlesource.com/spinnaker/clouddriver
+[submodule "spinnaker/deck"]
+	path = spinnaker/deck
+	url = https://github.googlesource.com/spinnaker/deck
+[submodule "spinnaker/echo"]
+	path = spinnaker/echo
+	url = https://github.googlesource.com/spinnaker/echo
+[submodule "spinnaker/front50"]
+	path = spinnaker/front50
+	url = https://github.googlesource.com/spinnaker/front50
+[submodule "spinnaker/gate"]
+	path = spinnaker/gate
+	url = https://github.googlesource.com/spinnaker/gate
+[submodule "spinnaker/igor"]
+	path = spinnaker/igor
+	url = https://github.googlesource.com/spinnaker/igor
+[submodule "spinnaker/orca"]
+	path = spinnaker/orca
+	url = https://github.googlesource.com/spinnaker/orca
+[submodule "spinnaker/rosco"]
+	path = spinnaker/rosco
+	url = https://github.googlesource.com/spinnaker/rosco
+[submodule "spinnaker/rush"]
+	path = spinnaker/rush
+	url = https://github.googlesource.com/spinnaker/rush
+[submodule "spinnaker/spinnaker.github.io"]
+	path = spinnaker/spinnaker.github.io
+	url = https://github.googlesource.com/spinnaker/spinnaker.github.io
+[submodule "spinnaker/spinnaker"]
+	path = spinnaker/spinnaker
+	url = https://github.googlesource.com/spinnaker/spinnaker
 [submodule "square/okhttp"]
 	path = square/okhttp
 	url = https://github.googlesource.com/square/okhttp
