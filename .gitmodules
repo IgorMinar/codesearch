@@ -61,6 +61,9 @@
 [submodule "GoogleCloudPlatform/compute-user-accounts"]
 	path = GoogleCloudPlatform/compute-user-accounts
 	url = https://github.googlesource.com/GoogleCloudPlatform/compute-user-accounts
+[submodule "GoogleCloudPlatform/compute-windows-drivers"]
+	path = GoogleCloudPlatform/compute-windows-drivers
+	url = https://github.googlesource.com/GoogleCloudPlatform/compute-windows-drivers
 [submodule "GoogleCloudPlatform/gcloud-golang"]
 	path = GoogleCloudPlatform/gcloud-golang
 	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-golang
