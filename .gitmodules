@@ -46,6 +46,9 @@
 [submodule "GoogleCloudPlatform/cloud-testenv-broker"]
 	path = GoogleCloudPlatform/cloud-testenv-broker
 	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-testenv-broker
+[submodule "GoogleCloudPlatform/cloud-trace-java"]
+	path = GoogleCloudPlatform/cloud-trace-java
+	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-trace-java
 [submodule "GoogleCloudPlatform/cloud-trace-nodejs"]
 	path = GoogleCloudPlatform/cloud-trace-nodejs
 	url = https://github.googlesource.com/GoogleCloudPlatform/cloud-trace-nodejs
@@ -82,9 +85,6 @@
 [submodule "GoogleCloudPlatform/gcloud-ruby"]
 	path = GoogleCloudPlatform/gcloud-ruby
 	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-ruby
-[submodule "GoogleCloudPlatform/gcloud-trace-java"]
-	path = GoogleCloudPlatform/gcloud-trace-java
-	url = https://github.googlesource.com/GoogleCloudPlatform/gcloud-trace-java
 [submodule "GoogleCloudPlatform/gsutil"]
 	path = GoogleCloudPlatform/gsutil
 	url = https://github.googlesource.com/GoogleCloudPlatform/gsutil
