@@ -94,6 +94,9 @@
 [submodule "KhronosGroup/SPIRV-Tools"]
 	path = KhronosGroup/SPIRV-Tools
 	url = https://github.googlesource.com/KhronosGroup/SPIRV-Tools
+[submodule "KhronosGroup/glslang"]
+	path = KhronosGroup/glslang
+	url = https://github.googlesource.com/KhronosGroup/glslang
 [submodule "SeleniumHQ/selenium"]
 	path = SeleniumHQ/selenium
 	url = https://github.googlesource.com/SeleniumHQ/selenium
