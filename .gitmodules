@@ -430,12 +430,6 @@
 [submodule "google/shipshape"]
 	path = google/shipshape
 	url = https://github.googlesource.com/google/shipshape
-[submodule "google/skia-buildbot"]
-	path = google/skia-buildbot
-	url = https://github.googlesource.com/google/skia-buildbot
-[submodule "google/skia"]
-	path = google/skia
-	url = https://github.googlesource.com/google/skia
 [submodule "google/syzygy"]
 	path = google/syzygy
 	url = https://github.googlesource.com/google/syzygy
