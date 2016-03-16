@@ -1,15 +1,9 @@
-[submodule "CocoaPods/CocoaPods"]
-	path = CocoaPods/CocoaPods
-	url = https://github.googlesource.com/CocoaPods/CocoaPods
 [submodule "DynamoRIO/drmemory"]
 	path = DynamoRIO/drmemory
 	url = https://github.googlesource.com/DynamoRIO/drmemory
 [submodule "DynamoRIO/dynamorio"]
 	path = DynamoRIO/dynamorio
 	url = https://github.googlesource.com/DynamoRIO/dynamorio
-[submodule "FFmpeg/FFmpeg"]
-	path = FFmpeg/FFmpeg
-	url = https://github.googlesource.com/FFmpeg/FFmpeg
 [submodule "ForensicArtifacts/artifacts"]
 	path = ForensicArtifacts/artifacts
 	url = https://github.googlesource.com/ForensicArtifacts/artifacts
@@ -103,9 +97,6 @@
 [submodule "Stackdriver/collectd"]
 	path = Stackdriver/collectd
 	url = https://github.googlesource.com/Stackdriver/collectd
-[submodule "WPO-Foundation/webpagetest"]
-	path = WPO-Foundation/webpagetest
-	url = https://github.googlesource.com/WPO-Foundation/webpagetest
 [submodule "ampproject/amphtml"]
 	path = ampproject/amphtml
 	url = https://github.googlesource.com/ampproject/amphtml
@@ -184,9 +175,6 @@
 [submodule "facebook/folly"]
 	path = facebook/folly
 	url = https://github.googlesource.com/facebook/folly
-[submodule "freebsd/freebsd"]
-	path = freebsd/freebsd
-	url = https://github.googlesource.com/freebsd/freebsd
 [submodule "gcc-mirror/gcc"]
 	path = gcc-mirror/gcc
 	url = https://github.googlesource.com/gcc-mirror/gcc
@@ -589,24 +577,12 @@
 [submodule "jenkinsci/remoting"]
 	path = jenkinsci/remoting
 	url = https://github.googlesource.com/jenkinsci/remoting
-[submodule "joyent/node"]
-	path = joyent/node
-	url = https://github.googlesource.com/joyent/node
-[submodule "jruby/jruby"]
-	path = jruby/jruby
-	url = https://github.googlesource.com/jruby/jruby
-[submodule "jsonn/src"]
-	path = jsonn/src
-	url = https://github.googlesource.com/jsonn/src
 [submodule "jverkoey/nimbus"]
 	path = jverkoey/nimbus
 	url = https://github.googlesource.com/jverkoey/nimbus
 [submodule "karma-runner/karma"]
 	path = karma-runner/karma
 	url = https://github.googlesource.com/karma-runner/karma
-[submodule "kohler/hotcrp"]
-	path = kohler/hotcrp
-	url = https://github.googlesource.com/kohler/hotcrp
 [submodule "kubernetes/deployment-manager"]
 	path = kubernetes/deployment-manager
 	url = https://github.googlesource.com/kubernetes/deployment-manager
@@ -616,39 +592,6 @@
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
-[submodule "llvm-mirror/clang-tools-extra"]
-	path = llvm-mirror/clang-tools-extra
-	url = https://github.googlesource.com/llvm-mirror/clang-tools-extra
-[submodule "llvm-mirror/clang"]
-	path = llvm-mirror/clang
-	url = https://github.googlesource.com/llvm-mirror/clang
-[submodule "llvm-mirror/compiler-rt"]
-	path = llvm-mirror/compiler-rt
-	url = https://github.googlesource.com/llvm-mirror/compiler-rt
-[submodule "llvm-mirror/libclc"]
-	path = llvm-mirror/libclc
-	url = https://github.googlesource.com/llvm-mirror/libclc
-[submodule "llvm-mirror/libcxx"]
-	path = llvm-mirror/libcxx
-	url = https://github.googlesource.com/llvm-mirror/libcxx
-[submodule "llvm-mirror/libcxxabi"]
-	path = llvm-mirror/libcxxabi
-	url = https://github.googlesource.com/llvm-mirror/libcxxabi
-[submodule "llvm-mirror/libunwind"]
-	path = llvm-mirror/libunwind
-	url = https://github.googlesource.com/llvm-mirror/libunwind
-[submodule "llvm-mirror/lld"]
-	path = llvm-mirror/lld
-	url = https://github.googlesource.com/llvm-mirror/lld
-[submodule "llvm-mirror/lldb"]
-	path = llvm-mirror/lldb
-	url = https://github.googlesource.com/llvm-mirror/lldb
-[submodule "llvm-mirror/llvm"]
-	path = llvm-mirror/llvm
-	url = https://github.googlesource.com/llvm-mirror/llvm
-[submodule "llvm-mirror/openmp"]
-	path = llvm-mirror/openmp
-	url = https://github.googlesource.com/llvm-mirror/openmp
 [submodule "luci/gae"]
 	path = luci/gae
 	url = https://github.googlesource.com/luci/gae
@@ -664,18 +607,9 @@
 [submodule "m-lab/collectd-mlab"]
 	path = m-lab/collectd-mlab
 	url = https://github.googlesource.com/m-lab/collectd-mlab
-[submodule "m-lab/mlab-ns"]
-	path = m-lab/mlab-ns
-	url = https://github.googlesource.com/m-lab/mlab-ns
 [submodule "m-lab/mlab-observatory"]
 	path = m-lab/mlab-observatory
 	url = https://github.googlesource.com/m-lab/mlab-observatory
-[submodule "m-lab/mlab-wikis"]
-	path = m-lab/mlab-wikis
-	url = https://github.googlesource.com/m-lab/mlab-wikis
-[submodule "m-lab/ndt"]
-	path = m-lab/ndt
-	url = https://github.googlesource.com/m-lab/ndt
 [submodule "m-lab/telescope"]
 	path = m-lab/telescope
 	url = https://github.googlesource.com/m-lab/telescope
@@ -688,9 +622,6 @@
 [submodule "matplotlib/matplotlib"]
 	path = matplotlib/matplotlib
 	url = https://github.googlesource.com/matplotlib/matplotlib
-[submodule "ndt-project/ndt"]
-	path = ndt-project/ndt
-	url = https://github.googlesource.com/ndt-project/ndt
 [submodule "nodejs/node"]
 	path = nodejs/node
 	url = https://github.googlesource.com/nodejs/node
@@ -700,9 +631,6 @@
 [submodule "pagespeed/ngx_pagespeed"]
 	path = pagespeed/ngx_pagespeed
 	url = https://github.googlesource.com/pagespeed/ngx_pagespeed
-[submodule "pydata/pandas"]
-	path = pydata/pandas
-	url = https://github.googlesource.com/pydata/pandas
 [submodule "rjogrady/ninja"]
 	path = rjogrady/ninja
 	url = https://github.googlesource.com/rjogrady/ninja
@@ -748,9 +676,6 @@
 [submodule "stressapptest/stressapptest"]
 	path = stressapptest/stressapptest
 	url = https://github.googlesource.com/stressapptest/stressapptest
-[submodule "u-boot/u-boot"]
-	path = u-boot/u-boot
-	url = https://github.googlesource.com/u-boot/u-boot
 [submodule "uProxy/uproxy-lib"]
 	path = uProxy/uproxy-lib
 	url = https://github.googlesource.com/uProxy/uproxy-lib
@@ -772,12 +697,6 @@
 [submodule "webrtc/testrtc"]
 	path = webrtc/testrtc
 	url = https://github.googlesource.com/webrtc/testrtc
-[submodule "xwiki/xwiki-commons"]
-	path = xwiki/xwiki-commons
-	url = https://github.googlesource.com/xwiki/xwiki-commons
-[submodule "xwiki/xwiki-platform"]
-	path = xwiki/xwiki-platform
-	url = https://github.googlesource.com/xwiki/xwiki-platform
 [submodule "youtube/js_mse_eme"]
 	path = youtube/js_mse_eme
 	url = https://github.googlesource.com/youtube/js_mse_eme
