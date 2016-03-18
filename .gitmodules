@@ -592,6 +592,18 @@
 [submodule "kubernetes/kubernetes"]
 	path = kubernetes/kubernetes
 	url = https://github.googlesource.com/kubernetes/kubernetes
+[submodule "llvm-mirror/clang-tools-extra"]
+	path = llvm-mirror/clang-tools-extra
+	url = https://github.googlesource.com/llvm-mirror/clang-tools-extra
+[submodule "llvm-mirror/clang"]
+	path = llvm-mirror/clang
+	url = https://github.googlesource.com/llvm-mirror/clang
+[submodule "llvm-mirror/compiler-rt"]
+	path = llvm-mirror/compiler-rt
+	url = https://github.googlesource.com/llvm-mirror/compiler-rt
+[submodule "llvm-mirror/llvm"]
+	path = llvm-mirror/llvm
+	url = https://github.googlesource.com/llvm-mirror/llvm
 [submodule "luci/gae"]
 	path = luci/gae
 	url = https://github.googlesource.com/luci/gae
