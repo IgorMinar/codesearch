@@ -688,6 +688,9 @@
 [submodule "stressapptest/stressapptest"]
 	path = stressapptest/stressapptest
 	url = https://github.googlesource.com/stressapptest/stressapptest
+[submodule "tensorflow/tensorflow"]
+	path = tensorflow/tensorflow
+	url = https://github.googlesource.com/tensorflow/tensorflow
 [submodule "uProxy/uproxy-lib"]
 	path = uProxy/uproxy-lib
 	url = https://github.googlesource.com/uProxy/uproxy-lib
