@@ -4,6 +4,9 @@
 [submodule "DynamoRIO/dynamorio"]
 	path = DynamoRIO/dynamorio
 	url = https://github.googlesource.com/DynamoRIO/dynamorio
+[submodule "FFmpeg/FFmpeg"]
+	path = FFmpeg/FFmpeg
+	url = https://github.googlesource.com/FFmpeg/FFmpeg
 [submodule "ForensicArtifacts/artifacts"]
 	path = ForensicArtifacts/artifacts
 	url = https://github.googlesource.com/ForensicArtifacts/artifacts
