@@ -34,9 +34,6 @@
 [submodule "GoogleCloudPlatform/appengine-pipelines"]
 	path = GoogleCloudPlatform/appengine-pipelines
 	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-pipelines
-[submodule "GoogleCloudPlatform/appengine-python-vm-runtime"]
-	path = GoogleCloudPlatform/appengine-python-vm-runtime
-	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-python-vm-runtime
 [submodule "GoogleCloudPlatform/appengine-sidecars-docker"]
 	path = GoogleCloudPlatform/appengine-sidecars-docker
 	url = https://github.googlesource.com/GoogleCloudPlatform/appengine-sidecars-docker
