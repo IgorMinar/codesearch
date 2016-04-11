@@ -382,6 +382,9 @@
 [submodule "google/gsa-admin-toolkit"]
 	path = google/gsa-admin-toolkit
 	url = ../../google/gsa-admin-toolkit
+[submodule "google/gson"]
+	path = google/gson
+	url = ../../google/gson
 [submodule "google/hilbert"]
 	path = google/hilbert
 	url = ../../google/hilbert
