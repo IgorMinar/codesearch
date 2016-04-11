@@ -700,6 +700,9 @@
 [submodule "pydata/pandas"]
 	path = pydata/pandas
 	url = ../../pydata/pandas
+[submodule "python/cpython"]
+	path = python/cpython
+	url = ../../python/cpython
 [submodule "rjogrady/ninja"]
 	path = rjogrady/ninja
 	url = ../../rjogrady/ninja
