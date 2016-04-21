@@ -112,6 +112,9 @@
 [submodule "angular/angular"]
 	path = angular/angular
 	url = ../../angular/angular
+[submodule "apache/incubator-beam"]
+	path = apache/incubator-beam
+	url = ../../apache/incubator-beam
 [submodule "apache/incubator-wave"]
 	path = apache/incubator-wave
 	url = ../../apache/incubator-wave
