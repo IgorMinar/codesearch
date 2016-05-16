@@ -358,9 +358,6 @@
 [submodule "google/digitalassetlinks"]
 	path = google/digitalassetlinks
 	url = ../../google/digitalassetlinks
-[submodule "google/edash-packager"]
-	path = google/edash-packager
-	url = ../../google/edash-packager
 [submodule "google/encrypted-bigquery-client"]
 	path = google/encrypted-bigquery-client
 	url = ../../google/encrypted-bigquery-client
