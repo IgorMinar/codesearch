@@ -427,6 +427,9 @@
 [submodule "google/shaderc"]
 	path = google/shaderc
 	url = ../../google/shaderc
+[submodule "google/shaka-packager"]
+	path = google/shaka-packager
+	url = ../../google/shaka-packager
 [submodule "google/shipshape"]
 	path = google/shipshape
 	url = ../../google/shipshape
