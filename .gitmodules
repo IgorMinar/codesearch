@@ -310,6 +310,9 @@
 [submodule "google/binnavi"]
 	path = google/binnavi
 	url = ../../google/binnavi
+[submodule "google/blockly-android"]
+	path = google/blockly-android
+	url = ../../google/blockly-android
 [submodule "google/blockly-games"]
 	path = google/blockly-games
 	url = ../../google/blockly-games
