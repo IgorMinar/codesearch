@@ -94,6 +94,9 @@
 [submodule "KhronosGroup/glslang"]
 	path = KhronosGroup/glslang
 	url = ../../KhronosGroup/glslang
+[submodule "LLK/scratch-blocks"]
+	path = LLK/scratch-blocks
+	url = ../../LLK/scratch-blocks
 [submodule "SeleniumHQ/selenium"]
 	path = SeleniumHQ/selenium
 	url = ../../SeleniumHQ/selenium
