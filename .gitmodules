@@ -1,801 +1,1068 @@
 [submodule "CocoaPods/CocoaPods"]
+	branch = HEAD
 	path = CocoaPods/CocoaPods
 	url = ../../CocoaPods/CocoaPods
 [submodule "DynamoRIO/drmemory"]
+	branch = HEAD
 	path = DynamoRIO/drmemory
 	url = ../../DynamoRIO/drmemory
 [submodule "DynamoRIO/dynamorio"]
+	branch = HEAD
 	path = DynamoRIO/dynamorio
 	url = ../../DynamoRIO/dynamorio
 [submodule "FFmpeg/FFmpeg"]
+	branch = HEAD
 	path = FFmpeg/FFmpeg
 	url = ../../FFmpeg/FFmpeg
 [submodule "ForensicArtifacts/artifacts"]
+	branch = HEAD
 	path = ForensicArtifacts/artifacts
 	url = ../../ForensicArtifacts/artifacts
 [submodule "GoogleChrome/ioweb2015"]
+	branch = HEAD
 	path = GoogleChrome/ioweb2015
 	url = ../../GoogleChrome/ioweb2015
 [submodule "GoogleCloudPlatform/DataflowJavaSDK"]
+	branch = HEAD
 	path = GoogleCloudPlatform/DataflowJavaSDK
 	url = ../../GoogleCloudPlatform/DataflowJavaSDK
 [submodule "GoogleCloudPlatform/PerfKitBenchmarker"]
+	branch = HEAD
 	path = GoogleCloudPlatform/PerfKitBenchmarker
 	url = ../../GoogleCloudPlatform/PerfKitBenchmarker
 [submodule "GoogleCloudPlatform/PerfKitExplorer"]
+	branch = HEAD
 	path = GoogleCloudPlatform/PerfKitExplorer
 	url = ../../GoogleCloudPlatform/PerfKitExplorer
 [submodule "GoogleCloudPlatform/appengine-gcs-client"]
+	branch = HEAD
 	path = GoogleCloudPlatform/appengine-gcs-client
 	url = ../../GoogleCloudPlatform/appengine-gcs-client
 [submodule "GoogleCloudPlatform/appengine-mapreduce"]
+	branch = HEAD
 	path = GoogleCloudPlatform/appengine-mapreduce
 	url = ../../GoogleCloudPlatform/appengine-mapreduce
 [submodule "GoogleCloudPlatform/appengine-pipelines"]
+	branch = HEAD
 	path = GoogleCloudPlatform/appengine-pipelines
 	url = ../../GoogleCloudPlatform/appengine-pipelines
 [submodule "GoogleCloudPlatform/appengine-sidecars-docker"]
+	branch = HEAD
 	path = GoogleCloudPlatform/appengine-sidecars-docker
 	url = ../../GoogleCloudPlatform/appengine-sidecars-docker
 [submodule "GoogleCloudPlatform/cloud-bigtable-client"]
+	branch = HEAD
 	path = GoogleCloudPlatform/cloud-bigtable-client
 	url = ../../GoogleCloudPlatform/cloud-bigtable-client
 [submodule "GoogleCloudPlatform/cloud-testenv-broker"]
+	branch = HEAD
 	path = GoogleCloudPlatform/cloud-testenv-broker
 	url = ../../GoogleCloudPlatform/cloud-testenv-broker
 [submodule "GoogleCloudPlatform/cloud-trace-java"]
+	branch = HEAD
 	path = GoogleCloudPlatform/cloud-trace-java
 	url = ../../GoogleCloudPlatform/cloud-trace-java
 [submodule "GoogleCloudPlatform/cloud-trace-nodejs"]
+	branch = HEAD
 	path = GoogleCloudPlatform/cloud-trace-nodejs
 	url = ../../GoogleCloudPlatform/cloud-trace-nodejs
 [submodule "GoogleCloudPlatform/collectd-netperf"]
+	branch = HEAD
 	path = GoogleCloudPlatform/collectd-netperf
 	url = ../../GoogleCloudPlatform/collectd-netperf
 [submodule "GoogleCloudPlatform/compute-image-packages"]
+	branch = HEAD
 	path = GoogleCloudPlatform/compute-image-packages
 	url = ../../GoogleCloudPlatform/compute-image-packages
 [submodule "GoogleCloudPlatform/compute-image-windows"]
+	branch = HEAD
 	path = GoogleCloudPlatform/compute-image-windows
 	url = ../../GoogleCloudPlatform/compute-image-windows
 [submodule "GoogleCloudPlatform/compute-user-accounts"]
+	branch = HEAD
 	path = GoogleCloudPlatform/compute-user-accounts
 	url = ../../GoogleCloudPlatform/compute-user-accounts
 [submodule "GoogleCloudPlatform/compute-windows-drivers"]
+	branch = HEAD
 	path = GoogleCloudPlatform/compute-windows-drivers
 	url = ../../GoogleCloudPlatform/compute-windows-drivers
 [submodule "GoogleCloudPlatform/gcloud-golang"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-golang
 	url = ../../GoogleCloudPlatform/gcloud-golang
 [submodule "GoogleCloudPlatform/gcloud-intellij"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-intellij
 	url = ../../GoogleCloudPlatform/gcloud-intellij
 [submodule "GoogleCloudPlatform/gcloud-java"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-java
 	url = ../../GoogleCloudPlatform/gcloud-java
 [submodule "GoogleCloudPlatform/gcloud-node"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-node
 	url = ../../GoogleCloudPlatform/gcloud-node
 [submodule "GoogleCloudPlatform/gcloud-python"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-python
 	url = ../../GoogleCloudPlatform/gcloud-python
 [submodule "GoogleCloudPlatform/gcloud-ruby"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-ruby
 	url = ../../GoogleCloudPlatform/gcloud-ruby
 [submodule "GoogleCloudPlatform/gsutil"]
+	branch = HEAD
 	path = GoogleCloudPlatform/gsutil
 	url = ../../GoogleCloudPlatform/gsutil
 [submodule "JetBrains/intellij-community"]
+	branch = HEAD
 	path = JetBrains/intellij-community
 	url = ../../JetBrains/intellij-community
 [submodule "KhronosGroup/SPIRV-Tools"]
+	branch = HEAD
 	path = KhronosGroup/SPIRV-Tools
 	url = ../../KhronosGroup/SPIRV-Tools
 [submodule "KhronosGroup/glslang"]
+	branch = HEAD
 	path = KhronosGroup/glslang
 	url = ../../KhronosGroup/glslang
 [submodule "LLK/scratch-blocks"]
+	branch = HEAD
 	path = LLK/scratch-blocks
 	url = ../../LLK/scratch-blocks
 [submodule "SeleniumHQ/selenium"]
+	branch = HEAD
 	path = SeleniumHQ/selenium
 	url = ../../SeleniumHQ/selenium
 [submodule "Stackdriver/collectd"]
+	branch = HEAD
 	path = Stackdriver/collectd
 	url = ../../Stackdriver/collectd
 [submodule "WPO-Foundation/webpagetest"]
+	branch = HEAD
 	path = WPO-Foundation/webpagetest
 	url = ../../WPO-Foundation/webpagetest
 [submodule "ampproject/amphtml"]
+	branch = HEAD
 	path = ampproject/amphtml
 	url = ../../ampproject/amphtml
 [submodule "angular/angular.js"]
+	branch = HEAD
 	path = angular/angular.js
 	url = ../../angular/angular.js
 [submodule "angular/angular"]
+	branch = HEAD
 	path = angular/angular
 	url = ../../angular/angular
 [submodule "apache/incubator-beam"]
+	branch = HEAD
 	path = apache/incubator-beam
 	url = ../../apache/incubator-beam
 [submodule "apache/incubator-wave"]
+	branch = HEAD
 	path = apache/incubator-wave
 	url = ../../apache/incubator-wave
 [submodule "bazelbuild/bazel"]
+	branch = HEAD
 	path = bazelbuild/bazel
 	url = ../../bazelbuild/bazel
 [submodule "bazelbuild/continuous-integration"]
+	branch = HEAD
 	path = bazelbuild/continuous-integration
 	url = ../../bazelbuild/continuous-integration
 [submodule "brho/akaros"]
+	branch = HEAD
 	path = brho/akaros
 	url = ../../brho/akaros
 [submodule "broadinstitute/hellbender"]
+	branch = HEAD
 	path = broadinstitute/hellbender
 	url = ../../broadinstitute/hellbender
 [submodule "catapult-project/catapult"]
+	branch = HEAD
 	path = catapult-project/catapult
 	url = ../../catapult-project/catapult
 [submodule "chromium/dom-distiller"]
+	branch = HEAD
 	path = chromium/dom-distiller
 	url = ../../chromium/dom-distiller
 [submodule "codemirror/CodeMirror"]
+	branch = HEAD
 	path = codemirror/CodeMirror
 	url = ../../codemirror/CodeMirror
 [submodule "cxxr-devel/cxxr"]
+	branch = HEAD
 	path = cxxr-devel/cxxr
 	url = ../../cxxr-devel/cxxr
 [submodule "cython/cython"]
+	branch = HEAD
 	path = cython/cython
 	url = ../../cython/cython
 [submodule "docker/boot2docker"]
+	branch = HEAD
 	path = docker/boot2docker
 	url = ../../docker/boot2docker
 [submodule "docker/distribution"]
+	branch = HEAD
 	path = docker/distribution
 	url = ../../docker/distribution
 [submodule "docker/docker"]
+	branch = HEAD
 	path = docker/docker
 	url = ../../docker/docker
 [submodule "domokit/cassowary"]
+	branch = HEAD
 	path = domokit/cassowary
 	url = ../../domokit/cassowary
 [submodule "domokit/mojo"]
+	branch = HEAD
 	path = domokit/mojo
 	url = ../../domokit/mojo
 [submodule "domokit/mojo_sdk"]
+	branch = HEAD
 	path = domokit/mojo_sdk
 	url = ../../domokit/mojo_sdk
 [submodule "domokit/monet"]
+	branch = HEAD
 	path = domokit/monet
 	url = ../../domokit/monet
 [submodule "domokit/newton"]
+	branch = HEAD
 	path = domokit/newton
 	url = ../../domokit/newton
 [submodule "domokit/omicron"]
+	branch = HEAD
 	path = domokit/omicron
 	url = ../../domokit/omicron
 [submodule "domokit/playfair"]
+	branch = HEAD
 	path = domokit/playfair
 	url = ../../domokit/playfair
 [submodule "domokit/sky_engine"]
+	branch = HEAD
 	path = domokit/sky_engine
 	url = ../../domokit/sky_engine
 [submodule "domokit/sky_tools"]
+	branch = HEAD
 	path = domokit/sky_tools
 	url = ../../domokit/sky_tools
 [submodule "facebook/folly"]
+	branch = HEAD
 	path = facebook/folly
 	url = ../../facebook/folly
 [submodule "freebsd/freebsd"]
+	branch = HEAD
 	path = freebsd/freebsd
 	url = ../../freebsd/freebsd
 [submodule "gcc-mirror/gcc"]
+	branch = HEAD
 	path = gcc-mirror/gcc
 	url = ../../gcc-mirror/gcc
 [submodule "gnachman/iTerm2"]
+	branch = HEAD
 	path = gnachman/iTerm2
 	url = ../../gnachman/iTerm2
 [submodule "golang/appengine"]
+	branch = HEAD
 	path = golang/appengine
 	url = ../../golang/appengine
 [submodule "golang/arch"]
+	branch = HEAD
 	path = golang/arch
 	url = ../../golang/arch
 [submodule "golang/benchmarks"]
+	branch = HEAD
 	path = golang/benchmarks
 	url = ../../golang/benchmarks
 [submodule "golang/blog"]
+	branch = HEAD
 	path = golang/blog
 	url = ../../golang/blog
 [submodule "golang/build"]
+	branch = HEAD
 	path = golang/build
 	url = ../../golang/build
 [submodule "golang/crypto"]
+	branch = HEAD
 	path = golang/crypto
 	url = ../../golang/crypto
 [submodule "golang/debug"]
+	branch = HEAD
 	path = golang/debug
 	url = ../../golang/debug
 [submodule "golang/example"]
+	branch = HEAD
 	path = golang/example
 	url = ../../golang/example
 [submodule "golang/exp"]
+	branch = HEAD
 	path = golang/exp
 	url = ../../golang/exp
 [submodule "golang/freetype"]
+	branch = HEAD
 	path = golang/freetype
 	url = ../../golang/freetype
 [submodule "golang/gddo"]
+	branch = HEAD
 	path = golang/gddo
 	url = ../../golang/gddo
 [submodule "golang/geo"]
+	branch = HEAD
 	path = golang/geo
 	url = ../../golang/geo
 [submodule "golang/glog"]
+	branch = HEAD
 	path = golang/glog
 	url = ../../golang/glog
 [submodule "golang/go"]
+	branch = HEAD
 	path = golang/go
 	url = ../../golang/go
 [submodule "golang/gofrontend"]
+	branch = HEAD
 	path = golang/gofrontend
 	url = ../../golang/gofrontend
 [submodule "golang/groupcache"]
+	branch = HEAD
 	path = golang/groupcache
 	url = ../../golang/groupcache
 [submodule "golang/image"]
+	branch = HEAD
 	path = golang/image
 	url = ../../golang/image
 [submodule "golang/leveldb"]
+	branch = HEAD
 	path = golang/leveldb
 	url = ../../golang/leveldb
 [submodule "golang/lint"]
+	branch = HEAD
 	path = golang/lint
 	url = ../../golang/lint
 [submodule "golang/mobile"]
+	branch = HEAD
 	path = golang/mobile
 	url = ../../golang/mobile
 [submodule "golang/mock"]
+	branch = HEAD
 	path = golang/mock
 	url = ../../golang/mock
 [submodule "golang/net"]
+	branch = HEAD
 	path = golang/net
 	url = ../../golang/net
 [submodule "golang/oauth2"]
+	branch = HEAD
 	path = golang/oauth2
 	url = ../../golang/oauth2
 [submodule "golang/playground"]
+	branch = HEAD
 	path = golang/playground
 	url = ../../golang/playground
 [submodule "golang/proposal"]
+	branch = HEAD
 	path = golang/proposal
 	url = ../../golang/proposal
 [submodule "golang/protobuf"]
+	branch = HEAD
 	path = golang/protobuf
 	url = ../../golang/protobuf
 [submodule "golang/review"]
+	branch = HEAD
 	path = golang/review
 	url = ../../golang/review
 [submodule "golang/snappy"]
+	branch = HEAD
 	path = golang/snappy
 	url = ../../golang/snappy
 [submodule "golang/sublime-build"]
+	branch = HEAD
 	path = golang/sublime-build
 	url = ../../golang/sublime-build
 [submodule "golang/sublime-config"]
+	branch = HEAD
 	path = golang/sublime-config
 	url = ../../golang/sublime-config
 [submodule "golang/sys"]
+	branch = HEAD
 	path = golang/sys
 	url = ../../golang/sys
 [submodule "golang/talks"]
+	branch = HEAD
 	path = golang/talks
 	url = ../../golang/talks
 [submodule "golang/text"]
+	branch = HEAD
 	path = golang/text
 	url = ../../golang/text
 [submodule "golang/tools"]
+	branch = HEAD
 	path = golang/tools
 	url = ../../golang/tools
 [submodule "golang/tour"]
+	branch = HEAD
 	path = golang/tour
 	url = ../../golang/tour
 [submodule "golang/winstrap"]
+	branch = HEAD
 	path = golang/winstrap
 	url = ../../golang/winstrap
 [submodule "google/apitools"]
+	branch = HEAD
 	path = google/apitools
 	url = ../../google/apitools
 [submodule "google/battery-historian"]
+	branch = HEAD
 	path = google/battery-historian
 	url = ../../google/battery-historian
 [submodule "google/binnavi"]
+	branch = HEAD
 	path = google/binnavi
 	url = ../../google/binnavi
 [submodule "google/blockly-android"]
+	branch = HEAD
 	path = google/blockly-android
 	url = ../../google/blockly-android
 [submodule "google/blockly-games"]
+	branch = HEAD
 	path = google/blockly-games
 	url = ../../google/blockly-games
 [submodule "google/blockly"]
+	branch = HEAD
 	path = google/blockly
 	url = ../../google/blockly
 [submodule "google/cadvisor"]
+	branch = HEAD
 	path = google/cadvisor
 	url = ../../google/cadvisor
 [submodule "google/calendar-connectors"]
+	branch = HEAD
 	path = google/calendar-connectors
 	url = ../../google/calendar-connectors
 [submodule "google/cctz"]
+	branch = HEAD
 	path = google/cctz
 	url = ../../google/cctz
 [submodule "google/certificate-transparency"]
+	branch = HEAD
 	path = google/certificate-transparency
 	url = ../../google/certificate-transparency
 [submodule "google/closure-compiler"]
+	branch = HEAD
 	path = google/closure-compiler
 	url = ../../google/closure-compiler
 [submodule "google/closure-library"]
+	branch = HEAD
 	path = google/closure-library
 	url = ../../google/closure-library
 [submodule "google/closure-templates"]
+	branch = HEAD
 	path = google/closure-templates
 	url = ../../google/closure-templates
 [submodule "google/cluster-data"]
+	branch = HEAD
 	path = google/cluster-data
 	url = ../../google/cluster-data
 [submodule "google/consumer-surveys"]
+	branch = HEAD
 	path = google/consumer-surveys
 	url = ../../google/consumer-surveys
 [submodule "google/coursebuilder-android-container-module"]
+	branch = HEAD
 	path = google/coursebuilder-android-container-module
 	url = ../../google/coursebuilder-android-container-module
 [submodule "google/coursebuilder-core"]
+	branch = HEAD
 	path = google/coursebuilder-core
 	url = ../../google/coursebuilder-core
 [submodule "google/coursebuilder-lti-module"]
+	branch = HEAD
 	path = google/coursebuilder-lti-module
 	url = ../../google/coursebuilder-lti-module
 [submodule "google/coursebuilder_xblock_module"]
+	branch = HEAD
 	path = google/coursebuilder_xblock_module
 	url = ../../google/coursebuilder_xblock_module
 [submodule "google/digitalassetlinks"]
+	branch = HEAD
 	path = google/digitalassetlinks
 	url = ../../google/digitalassetlinks
 [submodule "google/encrypted-bigquery-client"]
+	branch = HEAD
 	path = google/encrypted-bigquery-client
 	url = ../../google/encrypted-bigquery-client
 [submodule "google/error-prone"]
+	branch = HEAD
 	path = google/error-prone
 	url = ../../google/error-prone
 [submodule "google/gaps-support-tool"]
+	branch = HEAD
 	path = google/gaps-support-tool
 	url = ../../google/gaps-support-tool
 [submodule "google/ggrc-core"]
+	branch = HEAD
 	path = google/ggrc-core
 	url = ../../google/ggrc-core
 [submodule "google/google-java-format"]
+	branch = HEAD
 	path = google/google-java-format
 	url = ../../google/google-java-format
 [submodule "google/googletest"]
+	branch = HEAD
 	path = google/googletest
 	url = ../../google/googletest
 [submodule "google/grr"]
+	branch = HEAD
 	path = google/grr
 	url = ../../google/grr
 [submodule "google/gsa-admin-toolkit"]
+	branch = HEAD
 	path = google/gsa-admin-toolkit
 	url = ../../google/gsa-admin-toolkit
 [submodule "google/gson"]
+	branch = HEAD
 	path = google/gson
 	url = ../../google/gson
 [submodule "google/hilbert"]
+	branch = HEAD
 	path = google/hilbert
 	url = ../../google/hilbert
 [submodule "google/jsontoken"]
+	branch = HEAD
 	path = google/jsontoken
 	url = ../../google/jsontoken
 [submodule "google/kythe"]
+	branch = HEAD
 	path = google/kythe
 	url = ../../google/kythe
 [submodule "google/mozc"]
+	branch = HEAD
 	path = google/mozc
 	url = ../../google/mozc
 [submodule "google/nogotofail"]
+	branch = HEAD
 	path = google/nogotofail
 	url = ../../google/nogotofail
 [submodule "google/oauth2client"]
+	branch = HEAD
 	path = google/oauth2client
 	url = ../../google/oauth2client
 [submodule "google/open-vcdiff"]
+	branch = HEAD
 	path = google/open-vcdiff
 	url = ../../google/open-vcdiff
 [submodule "google/openhtf"]
+	branch = HEAD
 	path = google/openhtf
 	url = ../../google/openhtf
 [submodule "google/or-tools"]
+	branch = HEAD
 	path = google/or-tools
 	url = ../../google/or-tools
 [submodule "google/play-work"]
+	branch = HEAD
 	path = google/play-work
 	url = ../../google/play-work
 [submodule "google/protobuf"]
+	branch = HEAD
 	path = google/protobuf
 	url = ../../google/protobuf
 [submodule "google/python-adb"]
+	branch = HEAD
 	path = google/python-adb
 	url = ../../google/python-adb
 [submodule "google/rekall"]
+	branch = HEAD
 	path = google/rekall
 	url = ../../google/rekall
 [submodule "google/shaderc"]
+	branch = HEAD
 	path = google/shaderc
 	url = ../../google/shaderc
 [submodule "google/shaka-packager"]
+	branch = HEAD
 	path = google/shaka-packager
 	url = ../../google/shaka-packager
 [submodule "google/shipshape"]
+	branch = HEAD
 	path = google/shipshape
 	url = ../../google/shipshape
 [submodule "google/syzygy"]
+	branch = HEAD
 	path = google/syzygy
 	url = ../../google/syzygy
 [submodule "google/timesketch"]
+	branch = HEAD
 	path = google/timesketch
 	url = ../../google/timesketch
 [submodule "google/transit"]
+	branch = HEAD
 	path = google/transit
 	url = ../../google/transit
 [submodule "google/vim-codefmt"]
+	branch = HEAD
 	path = google/vim-codefmt
 	url = ../../google/vim-codefmt
 [submodule "google/vim-colorscheme-primary"]
+	branch = HEAD
 	path = google/vim-colorscheme-primary
 	url = ../../google/vim-colorscheme-primary
 [submodule "google/vim-coverage"]
+	branch = HEAD
 	path = google/vim-coverage
 	url = ../../google/vim-coverage
 [submodule "google/vim-ft-bzl"]
+	branch = HEAD
 	path = google/vim-ft-bzl
 	url = ../../google/vim-ft-bzl
 [submodule "google/vim-ft-go"]
+	branch = HEAD
 	path = google/vim-ft-go
 	url = ../../google/vim-ft-go
 [submodule "google/vim-ft-vroom"]
+	branch = HEAD
 	path = google/vim-ft-vroom
 	url = ../../google/vim-ft-vroom
 [submodule "google/vim-glaive"]
+	branch = HEAD
 	path = google/vim-glaive
 	url = ../../google/vim-glaive
 [submodule "google/vim-maktaba"]
+	branch = HEAD
 	path = google/vim-maktaba
 	url = ../../google/vim-maktaba
 [submodule "google/vim-syncopate"]
+	branch = HEAD
 	path = google/vim-syncopate
 	url = ../../google/vim-syncopate
 [submodule "googlegenomics/api-client-android"]
+	branch = HEAD
 	path = googlegenomics/api-client-android
 	url = ../../googlegenomics/api-client-android
 [submodule "googlegenomics/api-client-java"]
+	branch = HEAD
 	path = googlegenomics/api-client-java
 	url = ../../googlegenomics/api-client-java
 [submodule "googlegenomics/api-client-javascript"]
+	branch = HEAD
 	path = googlegenomics/api-client-javascript
 	url = ../../googlegenomics/api-client-javascript
 [submodule "googlegenomics/api-client-python"]
+	branch = HEAD
 	path = googlegenomics/api-client-python
 	url = ../../googlegenomics/api-client-python
 [submodule "googlegenomics/api-provider-local-java"]
+	branch = HEAD
 	path = googlegenomics/api-provider-local-java
 	url = ../../googlegenomics/api-provider-local-java
 [submodule "googlegenomics/bigquery-examples"]
+	branch = HEAD
 	path = googlegenomics/bigquery-examples
 	url = ../../googlegenomics/bigquery-examples
 [submodule "googlegenomics/bioconductor-workshop-r"]
+	branch = HEAD
 	path = googlegenomics/bioconductor-workshop-r
 	url = ../../googlegenomics/bioconductor-workshop-r
 [submodule "googlegenomics/bunny-logs"]
+	branch = HEAD
 	path = googlegenomics/bunny-logs
 	url = ../../googlegenomics/bunny-logs
 [submodule "googlegenomics/codelabs"]
+	branch = HEAD
 	path = googlegenomics/codelabs
 	url = ../../googlegenomics/codelabs
 [submodule "googlegenomics/dataflow-java"]
+	branch = HEAD
 	path = googlegenomics/dataflow-java
 	url = ../../googlegenomics/dataflow-java
 [submodule "googlegenomics/denovo-variant-caller-java"]
+	branch = HEAD
 	path = googlegenomics/denovo-variant-caller-java
 	url = ../../googlegenomics/denovo-variant-caller-java
 [submodule "googlegenomics/gatk-tools-java"]
+	branch = HEAD
 	path = googlegenomics/gatk-tools-java
 	url = ../../googlegenomics/gatk-tools-java
 [submodule "googlegenomics/gce-images"]
+	branch = HEAD
 	path = googlegenomics/gce-images
 	url = ../../googlegenomics/gce-images
 [submodule "googlegenomics/getting-started-bigquery"]
+	branch = HEAD
 	path = googlegenomics/getting-started-bigquery
 	url = ../../googlegenomics/getting-started-bigquery
 [submodule "googlegenomics/getting-started-with-the-api"]
+	branch = HEAD
 	path = googlegenomics/getting-started-with-the-api
 	url = ../../googlegenomics/getting-started-with-the-api
 [submodule "googlegenomics/grid-computing-tools"]
+	branch = HEAD
 	path = googlegenomics/grid-computing-tools
 	url = ../../googlegenomics/grid-computing-tools
 [submodule "googlegenomics/spark-examples"]
+	branch = HEAD
 	path = googlegenomics/spark-examples
 	url = ../../googlegenomics/spark-examples
 [submodule "googlegenomics/start-here"]
+	branch = HEAD
 	path = googlegenomics/start-here
 	url = ../../googlegenomics/start-here
 [submodule "googlegenomics/utils-java"]
+	branch = HEAD
 	path = googlegenomics/utils-java
 	url = ../../googlegenomics/utils-java
 [submodule "googlegsa/activedirectory"]
+	branch = HEAD
 	path = googlegsa/activedirectory
 	url = ../../googlegsa/activedirectory
 [submodule "googlegsa/database"]
+	branch = HEAD
 	path = googlegsa/database
 	url = ../../googlegsa/database
 [submodule "googlegsa/documentum"]
+	branch = HEAD
 	path = googlegsa/documentum
 	url = ../../googlegsa/documentum
 [submodule "googlegsa/filesystem"]
+	branch = HEAD
 	path = googlegsa/filesystem
 	url = ../../googlegsa/filesystem
 [submodule "googlegsa/googleauthn"]
+	branch = HEAD
 	path = googlegsa/googleauthn
 	url = ../../googlegsa/googleauthn
 [submodule "googlegsa/ldap"]
+	branch = HEAD
 	path = googlegsa/ldap
 	url = ../../googlegsa/ldap
 [submodule "googlegsa/library"]
+	branch = HEAD
 	path = googlegsa/library
 	url = ../../googlegsa/library
 [submodule "googlegsa/opentext"]
+	branch = HEAD
 	path = googlegsa/opentext
 	url = ../../googlegsa/opentext
 [submodule "googlegsa/sharepoint"]
+	branch = HEAD
 	path = googlegsa/sharepoint
 	url = ../../googlegsa/sharepoint
 [submodule "googlei18n/libaddressinput"]
+	branch = HEAD
 	path = googlei18n/libaddressinput
 	url = ../../googlei18n/libaddressinput
 [submodule "googlei18n/libphonenumber"]
+	branch = HEAD
 	path = googlei18n/libphonenumber
 	url = ../../googlei18n/libphonenumber
 [submodule "grpc/grpc-common"]
+	branch = HEAD
 	path = grpc/grpc-common
 	url = ../../grpc/grpc-common
 [submodule "grpc/grpc-docker-library"]
+	branch = HEAD
 	path = grpc/grpc-docker-library
 	url = ../../grpc/grpc-docker-library
 [submodule "grpc/grpc-go"]
+	branch = HEAD
 	path = grpc/grpc-go
 	url = ../../grpc/grpc-go
 [submodule "grpc/grpc-java"]
+	branch = HEAD
 	path = grpc/grpc-java
 	url = ../../grpc/grpc-java
 [submodule "grpc/grpc-tools"]
+	branch = HEAD
 	path = grpc/grpc-tools
 	url = ../../grpc/grpc-tools
 [submodule "grpc/grpc"]
+	branch = HEAD
 	path = grpc/grpc
 	url = ../../grpc/grpc
 [submodule "grpc/homebrew-grpc"]
+	branch = HEAD
 	path = grpc/homebrew-grpc
 	url = ../../grpc/homebrew-grpc
 [submodule "halide/Halide"]
+	branch = HEAD
 	path = halide/Halide
 	url = ../../halide/Halide
 [submodule "ipomoena/dasher"]
+	branch = HEAD
 	path = ipomoena/dasher
 	url = ../../ipomoena/dasher
 [submodule "jenkinsci/jenkins"]
+	branch = HEAD
 	path = jenkinsci/jenkins
 	url = ../../jenkinsci/jenkins
 [submodule "jenkinsci/remoting"]
+	branch = HEAD
 	path = jenkinsci/remoting
 	url = ../../jenkinsci/remoting
 [submodule "jruby/jruby"]
+	branch = HEAD
 	path = jruby/jruby
 	url = ../../jruby/jruby
 [submodule "jsonn/src"]
+	branch = HEAD
 	path = jsonn/src
 	url = ../../jsonn/src
 [submodule "jverkoey/nimbus"]
+	branch = HEAD
 	path = jverkoey/nimbus
 	url = ../../jverkoey/nimbus
 [submodule "karma-runner/karma"]
+	branch = HEAD
 	path = karma-runner/karma
 	url = ../../karma-runner/karma
 [submodule "kohler/hotcrp"]
+	branch = HEAD
 	path = kohler/hotcrp
 	url = ../../kohler/hotcrp
 [submodule "kubernetes/deployment-manager"]
+	branch = HEAD
 	path = kubernetes/deployment-manager
 	url = ../../kubernetes/deployment-manager
 [submodule "kubernetes/heapster"]
+	branch = HEAD
 	path = kubernetes/heapster
 	url = ../../kubernetes/heapster
 [submodule "kubernetes/kubernetes"]
+	branch = HEAD
 	path = kubernetes/kubernetes
 	url = ../../kubernetes/kubernetes
 [submodule "llvm-mirror/clang-tools-extra"]
+	branch = HEAD
 	path = llvm-mirror/clang-tools-extra
 	url = ../../llvm-mirror/clang-tools-extra
 [submodule "llvm-mirror/clang"]
+	branch = HEAD
 	path = llvm-mirror/clang
 	url = ../../llvm-mirror/clang
 [submodule "llvm-mirror/compiler-rt"]
+	branch = HEAD
 	path = llvm-mirror/compiler-rt
 	url = ../../llvm-mirror/compiler-rt
 [submodule "llvm-mirror/libclc"]
+	branch = HEAD
 	path = llvm-mirror/libclc
 	url = ../../llvm-mirror/libclc
 [submodule "llvm-mirror/libcxx"]
+	branch = HEAD
 	path = llvm-mirror/libcxx
 	url = ../../llvm-mirror/libcxx
 [submodule "llvm-mirror/libcxxabi"]
+	branch = HEAD
 	path = llvm-mirror/libcxxabi
 	url = ../../llvm-mirror/libcxxabi
 [submodule "llvm-mirror/libunwind"]
+	branch = HEAD
 	path = llvm-mirror/libunwind
 	url = ../../llvm-mirror/libunwind
 [submodule "llvm-mirror/lld"]
+	branch = HEAD
 	path = llvm-mirror/lld
 	url = ../../llvm-mirror/lld
 [submodule "llvm-mirror/lldb"]
+	branch = HEAD
 	path = llvm-mirror/lldb
 	url = ../../llvm-mirror/lldb
 [submodule "llvm-mirror/llvm"]
+	branch = HEAD
 	path = llvm-mirror/llvm
 	url = ../../llvm-mirror/llvm
 [submodule "llvm-mirror/openmp"]
+	branch = HEAD
 	path = llvm-mirror/openmp
 	url = ../../llvm-mirror/openmp
 [submodule "luci/gae"]
+	branch = HEAD
 	path = luci/gae
 	url = ../../luci/gae
 [submodule "luci/luci-go"]
+	branch = HEAD
 	path = luci/luci-go
 	url = ../../luci/luci-go
 [submodule "luci/luci-py"]
+	branch = HEAD
 	path = luci/luci-py
 	url = ../../luci/luci-py
 [submodule "luci/recipes-py"]
+	branch = HEAD
 	path = luci/recipes-py
 	url = ../../luci/recipes-py
 [submodule "m-lab/collectd-mlab"]
+	branch = HEAD
 	path = m-lab/collectd-mlab
 	url = ../../m-lab/collectd-mlab
 [submodule "m-lab/mlab-ns"]
+	branch = HEAD
 	path = m-lab/mlab-ns
 	url = ../../m-lab/mlab-ns
 [submodule "m-lab/mlab-observatory"]
+	branch = HEAD
 	path = m-lab/mlab-observatory
 	url = ../../m-lab/mlab-observatory
 [submodule "m-lab/mlab-wikis"]
+	branch = HEAD
 	path = m-lab/mlab-wikis
 	url = ../../m-lab/mlab-wikis
 [submodule "m-lab/ndt"]
+	branch = HEAD
 	path = m-lab/ndt
 	url = ../../m-lab/ndt
 [submodule "m-lab/telescope"]
+	branch = HEAD
 	path = m-lab/telescope
 	url = ../../m-lab/telescope
 [submodule "mDialog/scala-zeromq"]
+	branch = HEAD
 	path = mDialog/scala-zeromq
 	url = ../../mDialog/scala-zeromq
 [submodule "mDialog/smoke"]
+	branch = HEAD
 	path = mDialog/smoke
 	url = ../../mDialog/smoke
 [submodule "matplotlib/matplotlib"]
+	branch = HEAD
 	path = matplotlib/matplotlib
 	url = ../../matplotlib/matplotlib
 [submodule "ndt-project/ndt"]
+	branch = HEAD
 	path = ndt-project/ndt
 	url = ../../ndt-project/ndt
 [submodule "nodejs/node"]
+	branch = HEAD
 	path = nodejs/node
 	url = ../../nodejs/node
 [submodule "open-source-parsers/jsoncpp"]
+	branch = HEAD
 	path = open-source-parsers/jsoncpp
 	url = ../../open-source-parsers/jsoncpp
 [submodule "pagespeed/ngx_pagespeed"]
+	branch = HEAD
 	path = pagespeed/ngx_pagespeed
 	url = ../../pagespeed/ngx_pagespeed
 [submodule "pydata/pandas"]
+	branch = HEAD
 	path = pydata/pandas
 	url = ../../pydata/pandas
 [submodule "python/cpython"]
+	branch = HEAD
 	path = python/cpython
 	url = ../../python/cpython
 [submodule "rjogrady/ninja"]
+	branch = HEAD
 	path = rjogrady/ninja
 	url = ../../rjogrady/ninja
 [submodule "robolectric/robolectric"]
+	branch = HEAD
 	path = robolectric/robolectric
 	url = ../../robolectric/robolectric
 [submodule "spinnaker/clouddriver"]
+	branch = HEAD
 	path = spinnaker/clouddriver
 	url = ../../spinnaker/clouddriver
 [submodule "spinnaker/deck"]
+	branch = HEAD
 	path = spinnaker/deck
 	url = ../../spinnaker/deck
 [submodule "spinnaker/echo"]
+	branch = HEAD
 	path = spinnaker/echo
 	url = ../../spinnaker/echo
 [submodule "spinnaker/front50"]
+	branch = HEAD
 	path = spinnaker/front50
 	url = ../../spinnaker/front50
 [submodule "spinnaker/gate"]
+	branch = HEAD
 	path = spinnaker/gate
 	url = ../../spinnaker/gate
 [submodule "spinnaker/igor"]
+	branch = HEAD
 	path = spinnaker/igor
 	url = ../../spinnaker/igor
 [submodule "spinnaker/orca"]
+	branch = HEAD
 	path = spinnaker/orca
 	url = ../../spinnaker/orca
 [submodule "spinnaker/rosco"]
+	branch = HEAD
 	path = spinnaker/rosco
 	url = ../../spinnaker/rosco
 [submodule "spinnaker/rush"]
+	branch = HEAD
 	path = spinnaker/rush
 	url = ../../spinnaker/rush
 [submodule "spinnaker/spinnaker.github.io"]
+	branch = HEAD
 	path = spinnaker/spinnaker.github.io
 	url = ../../spinnaker/spinnaker.github.io
 [submodule "spinnaker/spinnaker"]
+	branch = HEAD
 	path = spinnaker/spinnaker
 	url = ../../spinnaker/spinnaker
 [submodule "square/okhttp"]
+	branch = HEAD
 	path = square/okhttp
 	url = ../../square/okhttp
 [submodule "stressapptest/stressapptest"]
+	branch = HEAD
 	path = stressapptest/stressapptest
 	url = ../../stressapptest/stressapptest
 [submodule "tensorflow/tensorflow"]
+	branch = HEAD
 	path = tensorflow/tensorflow
 	url = ../../tensorflow/tensorflow
 [submodule "uProxy/uproxy-lib"]
+	branch = HEAD
 	path = uProxy/uproxy-lib
 	url = ../../uProxy/uproxy-lib
 [submodule "uProxy/uproxy"]
+	branch = HEAD
 	path = uProxy/uproxy
 	url = ../../uProxy/uproxy
 [submodule "webmproject/libvpx"]
+	branch = HEAD
 	path = webmproject/libvpx
 	url = ../../webmproject/libvpx
 [submodule "webrtc/adapter"]
+	branch = HEAD
 	path = webrtc/adapter
 	url = ../../webrtc/adapter
 [submodule "webrtc/apprtc"]
+	branch = HEAD
 	path = webrtc/apprtc
 	url = ../../webrtc/apprtc
 [submodule "webrtc/samples"]
+	branch = HEAD
 	path = webrtc/samples
 	url = ../../webrtc/samples
 [submodule "webrtc/testrtc"]
+	branch = HEAD
 	path = webrtc/testrtc
 	url = ../../webrtc/testrtc
 [submodule "xwiki/xwiki-commons"]
+	branch = HEAD
 	path = xwiki/xwiki-commons
 	url = ../../xwiki/xwiki-commons
 [submodule "xwiki/xwiki-platform"]
+	branch = HEAD
 	path = xwiki/xwiki-platform
 	url = ../../xwiki/xwiki-platform
 [submodule "youtube/js_mse_eme"]
+	branch = HEAD
 	path = youtube/js_mse_eme
 	url = ../../youtube/js_mse_eme
 [submodule "youtube/spfjs"]
+	branch = HEAD
 	path = youtube/spfjs
 	url = ../../youtube/spfjs
 [submodule "youtube/vitess"]
+	branch = HEAD
 	path = youtube/vitess
 	url = ../../youtube/vitess
 [submodule "zorzella/guiceberry"]
+	branch = HEAD
 	path = zorzella/guiceberry
 	url = ../../zorzella/guiceberry
