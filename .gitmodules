@@ -2,6 +2,10 @@
 	branch = HEAD
 	path = CocoaPods/CocoaPods
 	url = ../../CocoaPods/CocoaPods
+[submodule "CocoaPods/Specs"]
+	branch = HEAD
+	path = CocoaPods/Specs
+	url = ../../CocoaPods/Specs
 [submodule "DynamoRIO/drmemory"]
 	branch = HEAD
 	path = DynamoRIO/drmemory
@@ -162,6 +166,10 @@
 	branch = HEAD
 	path = apache/incubator-wave
 	url = ../../apache/incubator-wave
+[submodule "apple/swift"]
+	branch = HEAD
+	path = apple/swift
+	url = ../../apple/swift
 [submodule "bazelbuild/bazel"]
 	branch = HEAD
 	path = bazelbuild/bazel
@@ -1010,6 +1018,10 @@
 	branch = HEAD
 	path = stressapptest/stressapptest
 	url = ../../stressapptest/stressapptest
+[submodule "tensorflow/magenta"]
+	branch = HEAD
+	path = tensorflow/magenta
+	url = ../../tensorflow/magenta
 [submodule "tensorflow/tensorflow"]
 	branch = HEAD
 	path = tensorflow/tensorflow
