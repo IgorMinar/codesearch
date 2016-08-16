@@ -778,10 +778,6 @@
 	branch = HEAD
 	path = grpc/grpc-java
 	url = ../../grpc/grpc-java
-[submodule "grpc/grpc-tools"]
-	branch = HEAD
-	path = grpc/grpc-tools
-	url = ../../grpc/grpc-tools
 [submodule "grpc/grpc"]
 	branch = HEAD
 	path = grpc/grpc
