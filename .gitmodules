@@ -110,10 +110,6 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-python
 	url = ../../GoogleCloudPlatform/gcloud-python
-[submodule "GoogleCloudPlatform/gcloud-ruby"]
-	branch = HEAD
-	path = GoogleCloudPlatform/gcloud-ruby
-	url = ../../GoogleCloudPlatform/gcloud-ruby
 [submodule "GoogleCloudPlatform/gsutil"]
 	branch = HEAD
 	path = GoogleCloudPlatform/gsutil
