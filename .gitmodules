@@ -98,10 +98,6 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-intellij
 	url = ../../GoogleCloudPlatform/gcloud-intellij
-[submodule "GoogleCloudPlatform/gcloud-java"]
-	branch = HEAD
-	path = GoogleCloudPlatform/gcloud-java
-	url = ../../GoogleCloudPlatform/gcloud-java
 [submodule "GoogleCloudPlatform/gcloud-node"]
 	branch = HEAD
 	path = GoogleCloudPlatform/gcloud-node
