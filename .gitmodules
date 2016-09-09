@@ -750,10 +750,6 @@
 	branch = HEAD
 	path = googlei18n/libphonenumber
 	url = ../../googlei18n/libphonenumber
-[submodule "grpc/grpc-common"]
-	branch = HEAD
-	path = grpc/grpc-common
-	url = ../../grpc/grpc-common
 [submodule "grpc/grpc-docker-library"]
 	branch = HEAD
 	path = grpc/grpc-docker-library
