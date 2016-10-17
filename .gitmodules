@@ -486,10 +486,6 @@
 	branch = HEAD
 	path = google/error-prone
 	url = ../../google/error-prone
-[submodule "google/gaps-support-tool"]
-	branch = HEAD
-	path = google/gaps-support-tool
-	url = ../../google/gaps-support-tool
 [submodule "google/ggrc-core"]
 	branch = HEAD
 	path = google/ggrc-core
