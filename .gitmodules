@@ -454,10 +454,6 @@
 	branch = HEAD
 	path = google/cluster-data
 	url = ../../google/cluster-data
-[submodule "google/consumer-surveys"]
-	branch = HEAD
-	path = google/consumer-surveys
-	url = ../../google/consumer-surveys
 [submodule "google/coursebuilder-android-container-module"]
 	branch = HEAD
 	path = google/coursebuilder-android-container-module
