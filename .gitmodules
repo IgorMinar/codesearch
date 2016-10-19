@@ -510,6 +510,10 @@
 	branch = HEAD
 	path = google/gson
 	url = ../../google/gson
+[submodule "google/gsps-support-tool"]
+	branch = HEAD
+	path = google/gsps-support-tool
+	url = ../../google/gsps-support-tool
 [submodule "google/hilbert"]
 	branch = HEAD
 	path = google/hilbert
