@@ -102,6 +102,10 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/gsutil
 	url = ../../GoogleCloudPlatform/gsutil
+[submodule "GoogleCloudPlatform/python-compat-runtime"]
+	branch = HEAD
+	path = GoogleCloudPlatform/python-compat-runtime
+	url = ../../GoogleCloudPlatform/python-compat-runtime
 [submodule "JetBrains/intellij-community"]
 	branch = HEAD
 	path = JetBrains/intellij-community
