@@ -626,6 +626,18 @@
 	branch = HEAD
 	path = google/vim-syncopate
 	url = ../../google/vim-syncopate
+[submodule "googleapis/gax-go"]
+	branch = HEAD
+	path = googleapis/gax-go
+	url = ../../googleapis/gax-go
+[submodule "googleapis/packman"]
+	branch = HEAD
+	path = googleapis/packman
+	url = ../../googleapis/packman
+[submodule "googleapis/toolkit"]
+	branch = HEAD
+	path = googleapis/toolkit
+	url = ../../googleapis/toolkit
 [submodule "googlegenomics/api-client-android"]
 	branch = HEAD
 	path = googlegenomics/api-client-android
