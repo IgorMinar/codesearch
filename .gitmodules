@@ -146,10 +146,6 @@
 	branch = HEAD
 	path = angular/angular
 	url = ../../angular/angular
-[submodule "apache/incubator-beam"]
-	branch = HEAD
-	path = apache/incubator-beam
-	url = ../../apache/incubator-beam
 [submodule "apache/incubator-wave"]
 	branch = HEAD
 	path = apache/incubator-wave
