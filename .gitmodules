@@ -598,10 +598,6 @@
 	branch = HEAD
 	path = google/vim-coverage
 	url = ../../google/vim-coverage
-[submodule "google/vim-ft-bzl"]
-	branch = HEAD
-	path = google/vim-ft-bzl
-	url = ../../google/vim-ft-bzl
 [submodule "google/vim-ft-go"]
 	branch = HEAD
 	path = google/vim-ft-go
