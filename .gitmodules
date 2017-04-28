@@ -146,10 +146,6 @@
 	branch = HEAD
 	path = angular/angular
 	url = ../../angular/angular
-[submodule "apache/incubator-wave"]
-	branch = HEAD
-	path = apache/incubator-wave
-	url = ../../apache/incubator-wave
 [submodule "apple/swift"]
 	branch = HEAD
 	path = apple/swift
