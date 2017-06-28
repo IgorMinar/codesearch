@@ -246,6 +246,14 @@
 	branch = HEAD
 	path = freebsd/freebsd
 	url = ../../freebsd/freebsd
+[submodule "flutter/engine"]
+	branch = HEAD
+	path = flutter/engine
+	url = ../../flutter/engine
+[submodule "flutter/flutter"]
+	branch = HEAD
+	path = flutter/flutter
+	url = ../../flutter/flutter
 [submodule "gcc-mirror/gcc"]
 	branch = HEAD
 	path = gcc-mirror/gcc
