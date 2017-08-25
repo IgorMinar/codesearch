@@ -158,6 +158,10 @@
 	branch = HEAD
 	path = ampproject/amphtml
 	url = ../../ampproject/amphtml
+[submodule "ampproject/amp-viewer"]
+	branch = HEAD
+	path = ampproject/amp-viewer
+	url = ../../ampproject/amp-viewer
 [submodule "angular/angular.js"]
 	branch = HEAD
 	path = angular/angular.js
