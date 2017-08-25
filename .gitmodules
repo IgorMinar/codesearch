@@ -126,6 +126,50 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/python-compat-runtime
 	url = ../../GoogleCloudPlatform/python-compat-runtime
+[submodule "GoogleCloudPlatform/nodejs-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/nodejs-docs-samples
+	url = ../../GoogleCloudPlatform/nodejs-docs-samples
+[submodule "GoogleCloudPlatform/python-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/python-docs-samples
+	url = ../../GoogleCloudPlatform/python-docs-samples
+[submodule "GoogleCloudPlatform/java-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/java-docs-samples
+	url = ../../GoogleCloudPlatform/java-docs-samples
+[submodule "GoogleCloudPlatform/dotnet-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/dotnet-docs-samples
+	url = ../../GoogleCloudPlatform/dotnet-docs-samples
+[submodule "GoogleCloudPlatform/ruby-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/ruby-docs-samples
+	url = ../../GoogleCloudPlatform/ruby-docs-samples
+[submodule "GoogleCloudPlatform/golang-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/golang-samples
+	url = ../../GoogleCloudPlatform/golang-samples
+[submodule "GoogleCloudPlatform/php-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/php-docs-samples
+	url = ../../GoogleCloudPlatform/php-docs-samples
+[submodule "GoogleCloudPlatform/web-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/web-docs-samples
+	url = ../../GoogleCloudPlatform/web-docs-samples
+[submodule "GoogleCloudPlatform/ios-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/ios-docs-samples
+	url = ../../GoogleCloudPlatform/ios-docs-samples
+[submodule "GoogleCloudPlatform/cpp-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/cpp-docs-samples
+	url = ../../GoogleCloudPlatform/cpp-docs-samples
+[submodule "GoogleCloudPlatform/android-docs-samples"]
+	branch = HEAD
+	path = GoogleCloudPlatform/android-docs-samples
+	url = ../../GoogleCloudPlatform/android-docs-samples
 [submodule "JetBrains/intellij-community"]
 	branch = HEAD
 	path = JetBrains/intellij-community
