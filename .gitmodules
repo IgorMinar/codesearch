@@ -18,6 +18,26 @@
 	branch = HEAD
 	path = FFmpeg/FFmpeg
 	url = ../../FFmpeg/FFmpeg
+[submodule "firebase/firebase-admin-java"]
+	branch = HEAD
+	path = firebase/firebase-admin-java
+	url = ../../firebase/firebase-admin-java
+[submodule "firebase/firebase-admin-node"]
+	branch = HEAD
+	path = firebase/firebase-admin-node
+	url = ../../firebase/firebase-admin-node
+[submodule "firebase/firebase-admin-python"]
+	branch = HEAD
+	path = firebase/firebase-admin-python
+	url = ../../firebase/firebase-admin-python
+[submodule "firebase/firebase-ios-sdk"]
+	branch = HEAD
+	path = firebase/firebase-ios-sdk
+	url = ../../firebase/firebase-ios-sdk
+[submodule "firebase/firebase-js-java"]
+	branch = HEAD
+	path = firebase/firebase-js-java
+	url = ../../firebase/firebase-js-java
 [submodule "ForensicArtifacts/artifacts"]
 	branch = HEAD
 	path = ForensicArtifacts/artifacts
