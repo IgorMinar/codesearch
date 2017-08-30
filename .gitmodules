@@ -34,10 +34,10 @@
 	branch = HEAD
 	path = firebase/firebase-ios-sdk
 	url = ../../firebase/firebase-ios-sdk
-[submodule "firebase/firebase-js-java"]
+[submodule "firebase/firebase-js-sdk"]
 	branch = HEAD
-	path = firebase/firebase-js-java
-	url = ../../firebase/firebase-js-java
+	path = firebase/firebase-js-sdk
+	url = ../../firebase/firebase-js-sdk
 [submodule "ForensicArtifacts/artifacts"]
 	branch = HEAD
 	path = ForensicArtifacts/artifacts
