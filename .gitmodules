@@ -990,6 +990,10 @@
 	branch = HEAD
 	path = matplotlib/matplotlib
 	url = ../../matplotlib/matplotlib
+[submodule "Microsoft/TypeScript"]
+	branch = HEAD
+	path = Microsoft/TypeScript
+	url = ../../Microsoft/TypeScript
 [submodule "ndt-project/ndt"]
 	branch = HEAD
 	path = ndt-project/ndt
