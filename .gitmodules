@@ -1,3 +1,11 @@
+[submodule "all-of-us/workbench"]
+	branch = HEAD
+	path = all-of-us/workbench
+	url = ../../all-of-us/workbench
+[submodule "all-of-us/raw-data-repository"]
+	branch = HEAD
+	path = all-of-us/raw-data-repository
+	url = ../../all-of-us/raw-data-repository
 [submodule "CocoaPods/CocoaPods"]
 	branch = HEAD
 	path = CocoaPods/CocoaPods
