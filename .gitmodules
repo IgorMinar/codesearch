@@ -762,6 +762,10 @@
 	branch = HEAD
 	path = googlegenomics/gatk-tools-java
 	url = ../../googlegenomics/gatk-tools-java
+[submodule "googlegenomics/gcp-variant-transforms"]
+	branch = HEAD
+	path = googlegenomics/gcp-variant-transforms
+	url = ../../googlegenomics/gcp-variant-transforms
 [submodule "googlegenomics/gce-images"]
 	branch = HEAD
 	path = googlegenomics/gce-images
