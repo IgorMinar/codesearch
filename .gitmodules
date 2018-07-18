@@ -210,6 +210,10 @@
 	branch = HEAD
 	path = ampproject/amphtml
 	url = ../../ampproject/amphtml
+[submodule "ampproject/amppackager"]
+        branch = HEAD
+        path = ampproject/amppackager
+        url = ../../ampproject/amppackager
 [submodule "ampproject/amp-viewer"]
 	branch = HEAD
 	path = ampproject/amp-viewer
