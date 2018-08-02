@@ -14,6 +14,14 @@
 	branch = HEAD
 	path = CocoaPods/Specs
 	url = ../../CocoaPods/Specs
+[submodule "DataBiosphere/data-explorer"]
+	branch = HEAD
+	path = DataBiosphere/data-explorer
+	url = ../../DataBiosphere/data-explorer
+[submodule "DataBiosphere/data-explorer-indexers"]
+	branch = HEAD
+	path = DataBiosphere/data-explorer-indexers
+	url = ../../DataBiosphere/data-explorer-indexers
 [submodule "DynamoRIO/drmemory"]
 	branch = HEAD
 	path = DynamoRIO/drmemory
