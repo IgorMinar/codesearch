@@ -142,6 +142,10 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/python-compat-runtime
 	url = ../../GoogleCloudPlatform/python-compat-runtime
+[submodule "GoogleCloudPlatform/netd"]
+        branch = HEAD
+        path = GoogleCloudPlatform/netd
+        url = ../../GoogleCloudPlatform/netd
 [submodule "GoogleCloudPlatform/nodejs-docs-samples"]
 	branch = HEAD
 	path = GoogleCloudPlatform/nodejs-docs-samples
