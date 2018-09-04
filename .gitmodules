@@ -586,6 +586,10 @@
 	branch = HEAD
 	path = google/ggrc-core
 	url = ../../google/ggrc-core
+[submodule "google/go-cloud"]
+	branch = HEAD
+	path = google/go-cloud
+	url = ../../google/go-cloud
 [submodule "google/google-java-format"]
 	branch = HEAD
 	path = google/google-java-format
