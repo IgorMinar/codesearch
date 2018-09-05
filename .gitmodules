@@ -330,6 +330,10 @@
 	branch = HEAD
 	path = domokit/sky_tools
 	url = ../../domokit/sky_tools
+[submodule "envoyproxy/envoy"]
+	branch = HEAD
+	path = envoyproxy/envoy
+	url = ../../envoyproxy/envoy
 [submodule "facebook/folly"]
 	branch = HEAD
 	path = facebook/folly
