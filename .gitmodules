@@ -890,6 +890,10 @@
 	branch = HEAD
 	path = ipomoena/dasher
 	url = ../../ipomoena/dasher
+[submodule "istio/istio"]
+	branch = HEAD
+	path = istio/istio
+	url = ../../istio/istio
 [submodule "jenkinsci/jenkins"]
 	branch = HEAD
 	path = jenkinsci/jenkins
