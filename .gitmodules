@@ -626,10 +626,6 @@
 	branch = HEAD
 	path = google/jsontoken
 	url = ../../google/jsontoken
-[submodule "google/kythe"]
-	branch = HEAD
-	path = google/kythe
-	url = ../../google/kythe
 [submodule "google/mozc"]
 	branch = HEAD
 	path = google/mozc
@@ -934,6 +930,10 @@
 	branch = HEAD
 	path = kubernetes/kubernetes
 	url = ../../kubernetes/kubernetes
+[submodule "kythe/kythe"]
+	branch = HEAD
+	path = kythe/kythe
+	url = ../../kythe/kythe
 [submodule "llvm-mirror/clang-tools-extra"]
 	branch = HEAD
 	path = llvm-mirror/clang-tools-extra
