@@ -602,10 +602,6 @@
 	branch = HEAD
 	path = google/googletest
 	url = ../../google/googletest
-[submodule "google/grr"]
-	branch = HEAD
-	path = google/grr
-	url = ../../google/grr
 [submodule "google/gsa-admin-toolkit"]
 	branch = HEAD
 	path = google/gsa-admin-toolkit
