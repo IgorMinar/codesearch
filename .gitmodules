@@ -170,6 +170,10 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/golang-samples
 	url = ../../GoogleCloudPlatform/golang-samples
+[submodule "GoogleCloudPlatform/google-cloud-cpp"]
+	branch = HEAD
+	path = GoogleCloudPlatform/google-cloud-cpp
+	url = ../../GoogleCloudPlatform/google-cloud-cpp
 [submodule "GoogleCloudPlatform/php-docs-samples"]
 	branch = HEAD
 	path = GoogleCloudPlatform/php-docs-samples
