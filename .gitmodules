@@ -198,6 +198,10 @@
 	branch = HEAD
 	path = JetBrains/intellij-community
 	url = ../../JetBrains/intellij-community
+[submodule "JetBrains/kotlin"]
+	branch = HEAD
+	path = JetBrains/kotlin
+	url = ../../JetBrains/kotlin
 [submodule "KhronosGroup/SPIRV-Tools"]
 	branch = HEAD
 	path = KhronosGroup/SPIRV-Tools
