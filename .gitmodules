@@ -726,6 +726,10 @@
 	branch = HEAD
 	path = google/vim-syncopate
 	url = ../../google/vim-syncopate
+[submodule "google/wire"]
+	branch = HEAD
+	path = google/wire
+	url = ../../google/wire
 [submodule "googleapis/gax-go"]
 	branch = HEAD
 	path = googleapis/gax-go
