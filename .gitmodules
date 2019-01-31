@@ -898,6 +898,10 @@
 	branch = HEAD
 	path = istio/istio
 	url = ../../istio/istio
+[submodule "istio/proxy"]
+	branch = wasm
+	path = istio/proxy
+	url = ../../istio/proxy
 [submodule "jenkinsci/jenkins"]
 	branch = HEAD
 	path = jenkinsci/jenkins
