@@ -1070,6 +1070,10 @@
 	branch = HEAD
 	path = python/cpython
 	url = ../../python/cpython
+[submodule "pytorch/pytorch"]
+	branch = HEAD
+	path = pytorch/pytorch
+	url = ../../pytorch/pytorch
 [submodule "rjogrady/ninja"]
 	branch = HEAD
 	path = rjogrady/ninja
