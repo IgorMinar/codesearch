@@ -734,6 +734,10 @@
 	branch = HEAD
 	path = googleapis/gax-go
 	url = ../../googleapis/gax-go
+[submodule "googleapis/google-cloud-cpp"]
+	branch = HEAD
+	path = googleapis/google-cloud-cpp
+	url = ../../googleapis/google-cloud-cpp
 [submodule "googleapis/packman"]
 	branch = HEAD
 	path = googleapis/packman
