@@ -202,6 +202,14 @@
 	branch = HEAD
 	path = JetBrains/kotlin
 	url = ../../JetBrains/kotlin
+[submodule "JetBrains/kotlin-native"]
+	branch = HEAD
+	path = JetBrains/kotlin-native
+	url = ../../JetBrains/kotlin-native
+[submodule "JetBrains/kotlin-native-shared"]
+	branch = HEAD
+	path = JetBrains/kotlin-native-shared
+	url = ../../JetBrains/kotlin-native-shared
 [submodule "KhronosGroup/SPIRV-Tools"]
 	branch = HEAD
 	path = KhronosGroup/SPIRV-Tools
