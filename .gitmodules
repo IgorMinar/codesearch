@@ -911,7 +911,7 @@
 	path = istio/istio
 	url = ../../istio/istio
 [submodule "istio/proxy"]
-	branch = wasm
+	branch = master
 	path = istio/proxy
 	url = ../../istio/proxy
 [submodule "jenkinsci/jenkins"]
