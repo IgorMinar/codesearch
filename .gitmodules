@@ -66,6 +66,10 @@
 	branch = HEAD
 	path = GoogleCloudPlatform/DataflowJavaSDK
 	url = ../../GoogleCloudPlatform/DataflowJavaSDK
+[submodule "GoogleCloudPlatform/esp-v2"]
+	branch = HEAD
+	path = GoogleCloudPlatform/esp-v2
+	url = ../../GoogleCloudPlatform/esp-v2
 [submodule "GoogleCloudPlatform/PerfKitBenchmarker"]
 	branch = HEAD
 	path = GoogleCloudPlatform/PerfKitBenchmarker
