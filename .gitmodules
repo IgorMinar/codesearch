@@ -258,6 +258,58 @@
 	branch = HEAD
 	path = angular/angular
 	url = ../../angular/angular
+[submodule "angular/angular-cli"]
+	branch = HEAD
+	path = angular/angular-cli
+	url = ../../angular/angular-cli
+[submodule "angular/angularfire"]
+	branch = HEAD
+	path = angular/angularfire
+	url = ../../angular/angularfire
+[submodule "angular/components"]
+	branch = HEAD
+	path = angular/components
+	url = ../../angular/components
+[submodule "angular/dev-infra"]
+	branch = HEAD
+	path = angular/dev-infra
+	url = ../../angular/dev-infra
+[submodule "angular/dgeni"]
+	branch = HEAD
+	path = angular/dgeni
+	url = ../../angular/dgeni
+[submodule "angular/flex-layout"]
+	branch = HEAD
+	path = angular/flex-layout
+	url = ../../angular/flex-layout
+[submodule "angular/in-memory-web-api"]
+	branch = HEAD
+	path = angular/in-memory-web-api
+	url = ../../angular/in-memory-web-api
+[submodule "angular/protractor"]
+	branch = HEAD
+	path = angular/protractor
+	url = ../../angular/protractor
+[submodule "angular/protractor-release-5.4"]
+	branch = release-5.4
+	path = angular/protractor-release-5.4
+	url = ../../angular/protractor
+[submodule "angular/tsickle"]
+	branch = HEAD
+	path = angular/tsickle
+	url = ../../angular/tsickle
+[submodule "angular/universal"]
+	branch = HEAD
+	path = angular/universal
+	url = ../../angular/universal
+[submodule "angular/vscode-ng-language-service"]
+	branch = HEAD
+	path = angular/vscode-ng-language-service
+	url = ../../angular/vscode-ng-language-service
+[submodule "angular/webdriver-manager"]
+	branch = HEAD
+	path = angular/webdriver-manager
+	url = ../../angular/webdriver-manager
 [submodule "apache/incubator-wave"]
 	branch = HEAD
 	path = apache/incubator-wave
